@@ -20,3 +20,8 @@ Day 4 -
 Yesterday: Read Lesson3 Container Orchestration with Kubernetes section 4 Docker walkthrough, 5 useful docker commands  and read Study Team Member Handbook. Implementing Data Engineer Nanodegree data warehouse project.  
 Today: Continue reading section 9 Kubernetes - The Container Orchestrator Framework, reading Study Team Member Handbook and implementing Data Engineer Nanodegree data warehouse project.  
 blocker pending quizzes spending more time carefully reading documents and articles in Further reading section.
+
+Day 5 -  
+Yesterday: Continue reading section 9 Kubernetes - The Container Orchestrator Framework, Finished reading Study Team Member Handbook, Implementing Data Engineer Nanodegree data warehouse project, create IAM role and security group on AWS. Went out for a 5 km slow run 🏃 relax body muscle.  
+Today: Continue reading section 9 Kubernetes - The Container Orchestrator Framework, and read project instruction implementing Data Engineer Nanodegree data warehouse project. Join #st_memers, #st_canada, #st_devops, #st_ai_ml_rl, #st_mlops, #st_to_the_moon, #st_learn_together.  
+blocker: None.  
