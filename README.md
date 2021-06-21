@@ -55,3 +55,8 @@ Explore Kubernetes features:
 * [Kubernetes Architecture and Components](https://kubernetes.io/docs/concepts/overview/components/)  
 , and read project instructions implementing the Data Engineer Nanodegree Program data warehouse project.   
 blocker: None.  
+
+Day 7 -  
+Yesterday: Continue reading section 9 Kubernetes - The Container Orchestrator Framework, Reading [Building Modern Python Applications on AWS](https://www.coursera.org/learn/building-modern-python-applications-on-aws/home/welcome), rewatching [MITx: 6.00.1xIntroduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) week 3 Newton-Raphson Root Finding, and reading [Teach Yourself Programming in Ten Years - Peter Norvig](http://norvig.com/21-days.html) in The Data Engineer Nanodegree Program curriculum 4 Data Lakes with Spark.  
+Today: Chipped knowledge piece by piece reading [Teach Yourself Programming in Ten Years - Peter Norvig](http://norvig.com/21-days.html) continue reading section 9 Kubernetes - The Container Orchestrator Framework Further Reading.    
+blocker: None.
