@@ -57,6 +57,17 @@ Explore Kubernetes features:
 blocker: None.  
 
 Day 7 -  
-Yesterday: Continue reading section 9 Kubernetes - The Container Orchestrator Framework, Reading [Building Modern Python Applications on AWS](https://www.coursera.org/learn/building-modern-python-applications-on-aws/home/welcome), rewatching [MITx: 6.00.1xIntroduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) week 3 Newton-Raphson Root Finding, and reading [Teach Yourself Programming in Ten Years - Peter Norvig](http://norvig.com/21-days.html) in The Data Engineer Nanodegree Program curriculum 4 Data Lakes with Spark.  
+Yesterday: Continue reading section 9 Kubernetes - The Container Orchestrator Framework, Reading [Building Modern Python Applications on AWS](https://www.coursera.org/learn/building-modern-python-applications-on-aws/home/welcome), rewatching [MITx: 6.00.1xIntroduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) week 2 Newton-Raphson Root Finding, and reading [Teach Yourself Programming in Ten Years - Peter Norvig](http://norvig.com/21-days.html) in The Data Engineer Nanodegree Program curriculum 4 Data Lakes with Spark.  
 Today: Chipped knowledge piece by piece reading [Teach Yourself Programming in Ten Years - Peter Norvig](http://norvig.com/21-days.html) continue reading section 9 Kubernetes - The Container Orchestrator Framework Further Reading.    
 blocker: None.
+
+Day 8 -  
+Yesterday: Finished writing lesson 2 Architecture consideration for cloud native applications quizzes and exercise, Reading [Building Modern Python Applications on AWS](https://www.coursera.org/learn/building-modern-python-applications-on-aws/home/welcome), rewatching [MITx: 6.00.1xIntroduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) week 2, and reading [Teach Yourself Programming in Ten Years - Peter Norvig](http://norvig.com/21-days.html) in The Data Engineer Nanodegree Program curriculum 4 Data Lakes with Spark.  
+Today: Reading lesson 2 Architecture consideration for cloud native applications   
+Further reading  
+[Health Checks](https://microservices.io/patterns/observability/health-check-api.html) - explore the core reasons to introduce health checks and implementations examples  
+[Prometehus Best Practices on Metrics Naming](https://prometheus.io/docs/instrumenting/writing_exporters/#metrics) - explore how to name, label, and define the type of metrics   
+[Application Logging Best Practices](https://logz.io/blog/logging-best-practices/) - read more on how to define what logs should be collected by an application  
+[Logging Levels](https://www.tutorialspoint.com/log4j/log4j_logging_levels.htm) - explore possible logging levels and when they should be enabled  
+[Enabling Distributed Tracing for Microservices With Jaeger in Kubernetes](https://containerjournal.com/topics/container-ecosystems/enabling-distributed-tracing-for-microservices-with-jaeger-in-kubernetes/) - learn what tools can be used to implement tracing in a Kubernetes cluster  
+blocker: None.  
