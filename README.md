@@ -71,3 +71,9 @@ Further reading
 [Logging Levels](https://www.tutorialspoint.com/log4j/log4j_logging_levels.htm) - explore possible logging levels and when they should be enabled  
 [Enabling Distributed Tracing for Microservices With Jaeger in Kubernetes](https://containerjournal.com/topics/container-ecosystems/enabling-distributed-tracing-for-microservices-with-jaeger-in-kubernetes/) - learn what tools can be used to implement tracing in a Kubernetes cluster  
 blocker: None.  
+
+Day 9 -  
+Yesterday: Watching Kaggle BIPOC Grant Program Final Showcase Session #2 and #3 recording feeling tears of joy ❤️.  
+ Writing Lesson3 Container Orchestration with Kubernetes quizzes and exercise, Reading [Building Modern Python Applications on AWS](https://www.coursera.org/learn/building-modern-python-applications-on-aws/home/welcome), revisiting [MITx: 6.00.1xIntroduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) week 2 How Environments Separate Variable Bindings and reading The Data Engineer Nanodegree Program curriculum 4 Data Lakes with Spark section 17 Spark Use Cases to Spark's Limitations.  
+Today: Continue writing Lesson3 Container Orchestration with Kubernetes quizzes.   
+blocker: None.    
