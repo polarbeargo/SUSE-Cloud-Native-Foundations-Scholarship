@@ -3,9 +3,9 @@
 
 [//]: # (Image References)
 
-[image1]: ./images/Session1BIPOCClassPic.png
-[image2]: ./images/Session2BIPOCClassPic.png
-[image3]: ./images/Session3BIPOCClassPic.png
+[image1]: ./image/Session1BIPOCClassPic.png
+[image2]: ./image/Session2BIPOCClassPic.png
+[image3]: ./image/Session3BIPOCClassPic.png
 
 Day 1 -  
 Yesterday: Read Lesson 3 Container Orchestration with Kubernetes section 3 Docker for Application Packaging and read rule and sign up for Daily Scrum Challenge.  
@@ -86,7 +86,7 @@ blocker: None.
 
 Session 1 BIPOC Class Pic| Session 2 BIPOC Class Pic
 :-----------------:|:-----------------:|
-![][image1]        |![][image1]        |  
+![][image1]        |![][image2]        |  
 Session 3 BIPOC Class Pic|
 ![][image3]        |                   |
 
