@@ -92,5 +92,5 @@ Session 3 BIPOC Class Pic|
 
 Day 10 -  
 Yesterday: Writing Lesson3 Container Orchestration with Kubernetes quizzes and exercise, Reading [Building Modern Python Applications on AWS](https://www.coursera.org/learn/building-modern-python-applications-on-aws/home/welcome).  
-Today: Organise Kaggle BIPOC Grant Program photos which makes my SUSE Cloud-Native Foundations Scholarship Daily Scrum Challenge readme much warm Continue reading Lesson3 section 11 Deploy Your First Kubernetes Cluster and implementing the Data Engineer Nanodegree Program data warehouse project.  
+Today: Organise Kaggle BIPOC Grant Program photos which makes my SUSE Cloud-Native Foundations Scholarship Daily Scrum Challenge readme much warm 😊 and colorful. Continue reading Lesson3 section 11 Deploy Your First Kubernetes Cluster and implementing the Data Engineer Nanodegree Program data warehouse project.  
 blocker: None.
