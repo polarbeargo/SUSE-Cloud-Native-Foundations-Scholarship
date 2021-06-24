@@ -1,6 +1,12 @@
 # SUSE-Cloud-Native-Foundations-Scholarship
 ## Daily Scrum Challenge
 
+[//]: # (Image References)
+
+[image1]: ./images/Session1BIPOCClassPic.png
+[image2]: ./images/Session2BIPOCClassPic.png
+[image3]: ./images/Session3BIPOCClassPic.png
+
 Day 1 -  
 Yesterday: Read Lesson 3 Container Orchestration with Kubernetes section 3 Docker for Application Packaging and read rule and sign up for Daily Scrum Challenge.  
 Today: Continue Docker for Application Packaging and find my study group :blush:.  
@@ -77,3 +83,14 @@ Yesterday: Watching Kaggle BIPOC Grant Program Final Showcase Session #2 and #3 
  Writing Lesson3 Container Orchestration with Kubernetes quizzes and exercise, Reading [Building Modern Python Applications on AWS](https://www.coursera.org/learn/building-modern-python-applications-on-aws/home/welcome), revisiting [MITx: 6.00.1xIntroduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) week 2 How Environments Separate Variable Bindings and reading The Data Engineer Nanodegree Program curriculum 4 Data Lakes with Spark section 17 Spark Use Cases to Spark's Limitations.  
 Today: Continue writing Lesson3 Container Orchestration with Kubernetes quizzes.   
 blocker: None.    
+
+Session 1 BIPOC Class Pic| Session 2 BIPOC Class Pic
+:-----------------:|:-----------------:|
+![][image1]        |![][image1]        |  
+Session 3 BIPOC Class Pic|
+![][image3]        |                   |
+
+Day 10 -  
+Yesterday: Writing Lesson3 Container Orchestration with Kubernetes quizzes and exercise, Reading [Building Modern Python Applications on AWS](https://www.coursera.org/learn/building-modern-python-applications-on-aws/home/welcome).  
+Today: Organise Kaggle BIPOC Grant Program photos which makes my SUSE Cloud-Native Foundations Scholarship Daily Scrum Challenge readme much warm Continue reading Lesson3 section 11 Deploy Your First Kubernetes Cluster and implementing the Data Engineer Nanodegree Program data warehouse project.  
+blocker: None.
