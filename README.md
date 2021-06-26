@@ -94,3 +94,18 @@ Day 10 -
 Yesterday: Writing Lesson3 Container Orchestration with Kubernetes quizzes and exercise, Reading [Building Modern Python Applications on AWS](https://www.coursera.org/learn/building-modern-python-applications-on-aws/home/welcome).  
 Today: Organise Kaggle BIPOC Grant Program photos which makes my SUSE Cloud-Native Foundations Scholarship Daily Scrum Challenge readme much warm 😊 and colorful. Continue reading Lesson3 section 11 Deploy Your First Kubernetes Cluster and implementing the Data Engineer Nanodegree Program data warehouse project.  
 blocker: None.
+ 
+Day 11 -  
+Yesterday: Writing Lesson3 Container Orchestration with Kubernetes quizzes and exercise complete week 3 have a cute 🏅 on my slack status ❤️ and reading Lesson3 section 11 Deploy Your First Kubernetes Cluster summary
+* Production-grade clusters
+  * [kubeadm](https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/install-kubeadm/)  
+  * [Kubespray](https://github.com/kubernetes-sigs/kubespray)    
+  * [Kops](https://github.com/kubernetes/kops)  
+  * [K3s](https://k3s.io/)  
+* Developmnet-grade clusters  
+  * [kind](https://kind.sigs.k8s.io/docs/user/quick-start/)  
+  * [minikube](https://minikube.sigs.k8s.io/docs/start/)  
+  * [k3d](https://classroom.udacity.com/nanodegrees/nd064-1/parts/30cb07da-8fd4-4438-a209-b3457adb5d82/modules/7b21dfa4-aac8-4d24-82c5-65325e6dc691/lessons/d9fa86b3-301d-4966-86f8-a2f34a5a7ca3/concepts/link%20to%20https://k3d.io/)    
+revisiting [MITx: 6.00.1xIntroduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)Problem 3: Alphabetical Substrings.    
+Today: Complete about 2 hours 10KM 🏃‍♀️ run because I watched [How Smell, Taste & Pheromone-Like Chemicals Control You | Huberman Lab Podcast #25](https://youtu.be/Mwz8JprPeMc), Read project instructions implementing the Data Engineer Nanodegree Program data warehouse project and Finish reading Lesson3 Container Orchestration with Kubernetes.     
+blocker: None.  
