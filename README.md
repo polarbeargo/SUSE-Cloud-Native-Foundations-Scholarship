@@ -110,3 +110,8 @@ Yesterday: Writing Lesson3 Container Orchestration with Kubernetes quizzes and e
 , revisiting [MITx: 6.00.1xIntroduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) Problem 3: Alphabetical Substrings.    
 Today: Complete about 2 hours 10KM 🏃‍♀️ run because I watched [How Smell, Taste & Pheromone-Like Chemicals Control You | Huberman Lab Podcast #25](https://youtu.be/Mwz8JprPeMc), Read project instructions implementing the Data Engineer Nanodegree Program data warehouse project, and finish reading Lesson3 Container Orchestration with Kubernetes.     
 blocker: None.  
+
+Day 12 -  
+Yesterday: Read project instructions implementing the Data Engineer Nanodegree Program data warehouse project and finished writing Lesson 3 Container Orchestration with Kubernetes quizzes, examined lesson 2 completion.  
+Today:  Read project instructions implementing the Data Engineer Nanodegree Program data warehouse project and reading Lesson3 Container Orchestration with Kubernetes.   
+blocker: None.  
