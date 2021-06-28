@@ -115,3 +115,8 @@ Day 12 -
 Yesterday: Read project instructions implementing the Data Engineer Nanodegree Program data warehouse project and finished writing Lesson 3 Container Orchestration with Kubernetes quizzes, examined lesson 2 completion.  
 Today:  Read project instructions implementing the Data Engineer Nanodegree Program data warehouse project and reading Lesson3 Container Orchestration with Kubernetes.   
 blocker: None.  
+
+Day 13 -  
+Yesterday: Been encouraged by @EviG [her post](https://susecloudchallenge.slack.com/archives/C025QQRHY7J/p1624642074228500?thread_ts=1624640679.193700&cid=C025QQRHY7J) love @ayse.nur’s post in #st_spaic :blush: which is super fun. Still thinking what kind of magic ability I would have, and who would be there? I’m sure I’ll see @EviG, @Frida, @Haris.Muhammad, and @Harini.Pavithra there. Have warm catchup with @Sadmi amazed by his posts and works in #st_memers. Passed the Data Engineer Nanodegree Program data warehouse project. Been encourage by @Frida’s daily_scrum post.    
+Today: Reading the Data Engineer Nanodegree Program data warehouse project review and revisiting Lesson3 Container Orchestration with Kubernetes, Reading [Building Modern Python Applications on AWS](https://www.coursera.org/learn/building-modern-python-applications-on-aws/home/welcome), revisiting [MITx: 6.00.1xIntroduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) week 2 my 2014 problem set 2 Introduction: Paying Off Credit Card Debt and [Testing and CI/CD - Lecture 7 - CS50's Web Programming with Python and JavaScript 2020](https://youtu.be/WbRDkJ4lPdY).  
+blocker: None
