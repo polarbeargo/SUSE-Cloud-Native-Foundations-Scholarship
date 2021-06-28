@@ -52,7 +52,9 @@ Today: Continue reading section 9 Kubernetes - The Container Orchestrator Framew
 blocker: None.  
 
 Day 6 -  
-Yesterday: Continue reading section 9 Kubernetes - The Container Orchestrator Framework, watch [Charles Hoskinson: Cardano | Lex Fridman Podcast #192](https://youtu.be/FKh8hjJNhWc) for three times. Read [Building Modern Python Applications on AWS](https://www.coursera.org/learn/building-modern-python-applications-on-aws/home/welcome) and rewatching [MITx: 6.00.1xIntroduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) spent my time missing the year, I enrolled in [MITx: 6.00.1xIntroduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) and happy to see Professor Eric Grimson and Instructors their faces.   
+Yesterday: Continue reading section 9 Kubernetes - The Container Orchestrator Framework, watch  
+[![](https://img.youtube.com/vi/FKh8hjJNhWc/0.jpg)](https://youtu.be/FKh8hjJNhWc)   
+for three times. Read [Building Modern Python Applications on AWS](https://www.coursera.org/learn/building-modern-python-applications-on-aws/home/welcome) and rewatching [MITx: 6.00.1xIntroduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) spent my time missing the year, I enrolled in [MITx: 6.00.1xIntroduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) and happy to see Professor Eric Grimson and Instructors their faces.   
 Today: Continue reading section 9 Kubernetes - The Container Orchestrator Framework Further Reading
 Explore Kubernetes features:  
 * [Kubernetes DNS for Services and Pods](https://kubernetes.io/docs/concepts/services-networking/dns-pod-service/)  
@@ -108,7 +110,9 @@ Yesterday: Writing Lesson3 Container Orchestration with Kubernetes quizzes and e
   * [k3d](https://classroom.udacity.com/nanodegrees/nd064-1/parts/30cb07da-8fd4-4438-a209-b3457adb5d82/modules/7b21dfa4-aac8-4d24-82c5-65325e6dc691/lessons/d9fa86b3-301d-4966-86f8-a2f34a5a7ca3/concepts/link%20to%20https://k3d.io/)   
  
 , revisiting [MITx: 6.00.1xIntroduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) Problem 3: Alphabetical Substrings.    
-Today: Complete about 2 hours 10KM 🏃‍♀️ run because I watched [How Smell, Taste & Pheromone-Like Chemicals Control You | Huberman Lab Podcast #25](https://youtu.be/Mwz8JprPeMc), Read project instructions implementing the Data Engineer Nanodegree Program data warehouse project, and finish reading Lesson3 Container Orchestration with Kubernetes.     
+Today: Complete about 2 hours 10KM 🏃‍♀️ run because I watched   
+[![](https://img.youtube.com/vi/Mwz8JprPeMc/0.jpg)](https://youtu.be/Mwz8JprPeMc)  
+, Read project instructions implementing the Data Engineer Nanodegree Program data warehouse project, and finish reading Lesson3 Container Orchestration with Kubernetes.     
 blocker: None.  
 
 Day 12 -  
@@ -117,6 +121,6 @@ Today:  Read project instructions implementing the Data Engineer Nanodegree Prog
 blocker: None.  
 
 Day 13 -  
-Yesterday: Been encouraged by @EviG [her post](https://susecloudchallenge.slack.com/archives/C025QQRHY7J/p1624642074228500?thread_ts=1624640679.193700&cid=C025QQRHY7J) love @ayse.nur’s post in #st_spaic :blush: which is super fun. Still thinking what kind of magic ability I would have, and who would be there? I’m sure I’ll see @EviG, @Frida, @Haris.Muhammad, and @Harini.Pavithra there. Have warm catchup with @Sadmi amazed by his posts and works in #st_memers. Passed the Data Engineer Nanodegree Program data warehouse project. Been encourage by @Frida’s daily_scrum post.    
+Yesterday: Been encouraged by @EviG [her post](https://susecloudchallenge.slack.com/archives/C025QQRHY7J/p1624642074228500?thread_ts=1624640679.193700&cid=C025QQRHY7J) love @ayse.nur’s post in #st_spaic :blush: which is super fun. Still thinking what kind of magic ability I would have, and who would be there? I’m sure I’ll see @EviG, @Frida, @Haris.Muhammad, @Sadmi and @Harini.Pavithra there. Have warm catchup with @Sadmi amazed by his posts and works in #st_memers. Passed the Data Engineer Nanodegree Program data warehouse project. Been encourage by @Frida’s daily_scrum post.    
 Today: Reading the Data Engineer Nanodegree Program data warehouse project review and revisiting Lesson3 Container Orchestration with Kubernetes, Reading [Building Modern Python Applications on AWS](https://www.coursera.org/learn/building-modern-python-applications-on-aws/home/welcome), revisiting [MITx: 6.00.1xIntroduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) week 2 my 2014 problem set 2 Introduction: Paying Off Credit Card Debt and [Testing and CI/CD - Lecture 7 - CS50's Web Programming with Python and JavaScript 2020](https://youtu.be/WbRDkJ4lPdY).  
 blocker: None
