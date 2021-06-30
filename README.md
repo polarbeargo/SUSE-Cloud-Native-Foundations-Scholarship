@@ -7,6 +7,8 @@
 [image2]: ./image/Session2BIPOCClassPic.png
 [image3]: ./image/Session3BIPOCClassPic.png
 [image4]: ./image/Badge.png  
+[image5]: ./image/lovelyLetter.png
+[image6]: ./image/mentorTime.png
 
 Day 1 -  
 Yesterday: Read Lesson 3 Container Orchestration with Kubernetes section 3 Docker for Application Packaging and read rule and sign up for Daily Scrum Challenge.  
@@ -136,4 +138,13 @@ Yesterday: Thought what I can do for others, discover a place for me help organi
 Thank you @Md.Masud.Rana for this opportunity:thanks:. Revisiting Lesson 3 Container Orchestration with Kubernetes, reading [Building Modern Python Applications on AWS](https://www.coursera.org/learn/building-modern-python-applications-on-aws/home/welcome), revisiting [MITx: 6.00.1xIntroduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) week 3.  
 Today: Revisiting Lesson 3 Container Orchestration with Kubernetes. Reading the Data Engineer Nanodegree Program curriculum 4 Data Lakes with Spark Lesson 1 The Power of Spark Lesson 2 Data wrangling with spark. Happy for I get sprint 1 badge 😃.   
 ![][image4]   
+blocker: Many. Still in Lesson 3 Container Orchestration with Kubernetes further readings section:exploding_head: too many have to spend sprint #1 week 4 and 5 to pick up.
+
+D 16 -  
+Yesterday: Revisiting and finished writting Lesson 3 Container Orchestration with Kubernetes quizzes, think of student story challenge 🤔. Reading [Building Modern Python Applications on AWS](https://www.coursera.org/learn/building-modern-python-applications-on-aws/home/welcome), revisiting [MITx: 6.00.1xIntroduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) week 3. Receive [Kaggle BIPOC Grant Program](https://www.kaggle.com/bipoc2021-project-showcase) certificate Of mentorship and a lovely email letter 😊! Thank you for willing to say you are proud of me 🌟.     
+Certificate Of Mentorship| Lovely Letter 🌹
+:-----------------:|:-----------------:|
+![][image5]        |![][image6]        |    
+
+Today: Revisiting Lesson 3 Container Orchestration with Kubernetes. Reading the [Data Engineer Nanodegree Program](https://www.udacity.com/course/data-engineer-nanodegree--nd027) curriculum 4 Data Lakes with Spark Lesson 1 The Power of Spark Lesson 2 Data wrangling with spark.  
 blocker: Many. Still in Lesson 3 Container Orchestration with Kubernetes further readings section:exploding_head: too many have to spend sprint #1 week 4 and 5 to pick up.
