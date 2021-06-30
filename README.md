@@ -134,7 +134,7 @@ Today: Revisiting Lesson 3 Container Orchestration with Kubernetes and start Les
 blocker: Still in Lesson 3 Container Orchestration with Kubernetes further readings section:exploding_head:  
 
 D 15 -  
-Yesterday: Thought what I can do for others, discover a place for me help organize resources about NLP algorithm (Bert, Transformer etc.) in #st_ai_ml_rl airtable, I imagine the seeds of knowledge will continue to flourish in others hands in different lands which will be a blessing https://susecloudchallenge.slack.com/archives/C02514591QA/p1624730416125500
+Yesterday: Thought what I can do for others, discover a place for me help organize resources about NLP algorithm (Bert, Transformer, Optuna etc.) in #st_ai_ml_rl airtable, I imagine the seeds of knowledge will continue to flourish in others hands in different lands which will be a blessing https://susecloudchallenge.slack.com/archives/C02514591QA/p1624730416125500
 Thank you @Md.Masud.Rana for this opportunity:thanks:. Revisiting Lesson 3 Container Orchestration with Kubernetes, reading [Building Modern Python Applications on AWS](https://www.coursera.org/learn/building-modern-python-applications-on-aws/home/welcome), revisiting [MITx: 6.00.1xIntroduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) week 3.  
 Today: Revisiting Lesson 3 Container Orchestration with Kubernetes. Reading the Data Engineer Nanodegree Program curriculum 4 Data Lakes with Spark Lesson 1 The Power of Spark Lesson 2 Data wrangling with spark. Happy for I get sprint 1 badge 😃.   
 ![][image4]   
