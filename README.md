@@ -7,7 +7,7 @@
 [image2]: ./image/Session2BIPOCClassPic.png
 [image3]: ./image/Session3BIPOCClassPic.png
 [image4]: ./image/Badge.png  
-[image5]: ./image/lovelyLetter.png
+[image5]: ./image/lovelyLetter.PNG
 [image6]: ./image/mentorTime.png
 
 Day 1 -  
