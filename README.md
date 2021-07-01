@@ -154,8 +154,8 @@ Yesterday: Reading [Sir Michael Virgo's Rideshare-Simulation](https://github.com
 further reading:  
 * [Bootstrapping clusters with kubeadm](https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/)  
 * [official installation documentation](https://kind.sigs.k8s.io/docs/user/quick-start/#installation)  
-* [Organizing Cluster Access Using kubeconfig Files](https://kubernetes.io/docs/concepts/configuration/organize-cluster-access-kubeconfig/)  
+* [Organizing Cluster Access Using kubeconfig Files](https://kubernetes.io/docs/concepts/configuration/organize-cluster-access-kubeconfig/)   
+ 
 revisiting [MITx: 6.00.1xIntroduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) week 3.   
-  
 Today: Revisiting Lesson 3 Container Orchestration with Kubernetes. Reading the [Data Engineer Nanodegree Program](https://www.udacity.com/course/data-engineer-nanodegree--nd027) curriculum 4 Data Lakes with Spark Lesson 1 The Power of Spark Lesson 2 Data wrangling with spark.   
 blocker: Many. Still in Lesson 3 Container Orchestration with Kubernetes further readings section:exploding_head: too many have to spend sprint #1 week 4 and 5 to pick up.  
