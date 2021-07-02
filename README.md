@@ -64,6 +64,7 @@ Explore Kubernetes features:
 * [Kubernetes CRDs](https://kubernetes.io/docs/concepts/extend-kubernetes/api-extension/custom-resources/)  
 * [Kubernete Cluster Autoscaler](https://kubernetes.io/blog/2016/07/autoscaling-in-kubernetes/)  
 * [Kubernetes Architecture and Components](https://kubernetes.io/docs/concepts/overview/components/)  
+
 , and read project instructions implementing the Data Engineer Nanodegree Program data warehouse project.   
 blocker: None.  
 
@@ -75,12 +76,13 @@ blocker: None.
 Day 8 -  
 Yesterday: Finished writing lesson 2 Architecture consideration for cloud native applications quizzes and exercise, Reading [Building Modern Python Applications on AWS](https://www.coursera.org/learn/building-modern-python-applications-on-aws/home/welcome), rewatching [MITx: 6.00.1xIntroduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) week 2, and reading [Teach Yourself Programming in Ten Years - Peter Norvig](http://norvig.com/21-days.html) in The Data Engineer Nanodegree Program curriculum 4 Data Lakes with Spark.  
 Today: Reading lesson 2 Architecture consideration for cloud native applications   
-Further reading  
-[Health Checks](https://microservices.io/patterns/observability/health-check-api.html) - explore the core reasons to introduce health checks and implementations examples  
-[Prometehus Best Practices on Metrics Naming](https://prometheus.io/docs/instrumenting/writing_exporters/#metrics) - explore how to name, label, and define the type of metrics   
-[Application Logging Best Practices](https://logz.io/blog/logging-best-practices/) - read more on how to define what logs should be collected by an application  
-[Logging Levels](https://www.tutorialspoint.com/log4j/log4j_logging_levels.htm) - explore possible logging levels and when they should be enabled  
-[Enabling Distributed Tracing for Microservices With Jaeger in Kubernetes](https://containerjournal.com/topics/container-ecosystems/enabling-distributed-tracing-for-microservices-with-jaeger-in-kubernetes/) - learn what tools can be used to implement tracing in a Kubernetes cluster  
+Further reading:    
+* [Health Checks](https://microservices.io/patterns/observability/health-check-api.html) - explore the core reasons to introduce health checks and implementations examples.    
+* [Prometehus Best Practices on Metrics Naming](https://prometheus.io/docs/instrumenting/writing_exporters/#metrics) - explore how to name, label, and define the type of metrics.     
+* [Application Logging Best Practices](https://logz.io/blog/logging-best-practices/) - read more on how to define what logs should be collected by an application  
+* [Logging Levels](https://www.tutorialspoint.com/log4j/log4j_logging_levels.htm) - explore possible logging levels and when they should be enabled.    
+* [Enabling Distributed Tracing for Microservices With Jaeger in Kubernetes](https://containerjournal.com/topics/container-ecosystems/enabling-distributed-tracing-for-microservices-with-jaeger-in-kubernetes/) - learn what tools can be used to implement tracing in a Kubernetes cluster.  
+
 blocker: None.  
 
 Day 9 -  
