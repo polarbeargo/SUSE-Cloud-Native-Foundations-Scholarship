@@ -161,3 +161,8 @@ further reading:
 revisiting [MITx: 6.00.1xIntroduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) week 3.   
 Today: Revisiting Lesson 3 Container Orchestration with Kubernetes. Reading the [Data Engineer Nanodegree Program](https://www.udacity.com/course/data-engineer-nanodegree--nd027) curriculum 4 Data Lakes with Spark Lesson 1 The Power of Spark Lesson 2 Data wrangling with spark.   
 blocker: Many. Still in Lesson 3 Container Orchestration with Kubernetes further readings section:exploding_head: too many have to spend sprint #1 week 4 and 5 to pick up.  
+
+D 18 -    
+Yesterday: Writing Lesson 3 Container Orchestration with Kubernetes quizzes and exercises, revisiting [MITx: 6.00.1xIntroduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) week 3.   
+Today: Move on to Lesson 4 Open Source PaaS.  
+blocker: None  
