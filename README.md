@@ -135,14 +135,14 @@ Yesterday: Reading the Data Engineer Nanodegree Program data warehouse project r
 Today: Revisiting Lesson 3 Container Orchestration with Kubernetes and start Lesson 4 Open Source PaaS. Reading the Data Engineer Nanodegree Program curriculum 4 Data Lakes with Spark Lesson 2 Data wrangling with spark.  
 blocker: Still in Lesson 3 Container Orchestration with Kubernetes further readings section:exploding_head:  
 
-D 15 -  
+Day 15 -  
 Yesterday: Thought what I can do for others, discover a place for me help organize resources about NLP algorithm (Bert, Transformer, Optuna etc.) in #st_ai_ml_rl airtable, I imagine the seeds of knowledge will continue to flourish in others hands in different lands which will be a blessing https://susecloudchallenge.slack.com/archives/C02514591QA/p1624730416125500
 Thank you @Md.Masud.Rana for this opportunity:thanks:. Revisiting Lesson 3 Container Orchestration with Kubernetes, reading [Building Modern Python Applications on AWS](https://www.coursera.org/learn/building-modern-python-applications-on-aws/home/welcome), revisiting [MITx: 6.00.1xIntroduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) week 3.  
 Today: Revisiting Lesson 3 Container Orchestration with Kubernetes. Reading the Data Engineer Nanodegree Program curriculum 4 Data Lakes with Spark Lesson 1 The Power of Spark Lesson 2 Data wrangling with spark. Happy for I get sprint 1 badge 😃.   
 ![][image4]   
 blocker: Many. Still in Lesson 3 Container Orchestration with Kubernetes further readings section:exploding_head: too many have to spend sprint #1 week 4 and 5 to pick up.
 
-D 16 -  
+Day 16 -  
 Yesterday: Revisiting and finished writing Lesson 3 Container Orchestration with Kubernetes quizzes, think of student story challenge 🤔. Reading [Building Modern Python Applications on AWS](https://www.coursera.org/learn/building-modern-python-applications-on-aws/home/welcome), revisiting [MITx: 6.00.1xIntroduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) week 3. Receive [Kaggle BIPOC Grant Program](https://www.kaggle.com/bipoc2021-project-showcase) certificate Of mentorship and a lovely email letter 😊! Thank you for willing to say you are proud of me 🌟.     
 Certificate Of Mentorship| Lovely Letter 🌹
 :-----------------:|:-----------------:|
@@ -151,7 +151,7 @@ Certificate Of Mentorship| Lovely Letter 🌹
 Today: Revisiting Lesson 3 Container Orchestration with Kubernetes. Reading the [Data Engineer Nanodegree Program](https://www.udacity.com/course/data-engineer-nanodegree--nd027) curriculum 4 Data Lakes with Spark Lesson 1 The Power of Spark Lesson 2 Data wrangling with spark.  
 blocker: Many. Still in Lesson 3 Container Orchestration with Kubernetes further readings section:exploding_head: too many have to spend sprint #1 week 4 and 5 to pick up.
 
-D 17 -    
+Day 17 -    
 Yesterday: Reading [Sir Michael Virgo's Rideshare-Simulation](https://github.com/mvirgo/Rideshare-Simulation) and Lesson 3 Container Orchestration with Kubernetes
 further reading:  
 * [Bootstrapping clusters with kubeadm](https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/)  
@@ -162,12 +162,12 @@ revisiting [MITx: 6.00.1xIntroduction to Computer Science and Programming Using
 Today: Revisiting Lesson 3 Container Orchestration with Kubernetes. Reading the [Data Engineer Nanodegree Program](https://www.udacity.com/course/data-engineer-nanodegree--nd027) curriculum 4 Data Lakes with Spark Lesson 1 The Power of Spark Lesson 2 Data wrangling with spark.   
 blocker: Many. Still in Lesson 3 Container Orchestration with Kubernetes further readings section:exploding_head: too many have to spend sprint #1 week 4 and 5 to pick up.  
 
-D 18 -    
+Day 18 -    
 Yesterday: Writing Lesson 3 Container Orchestration with Kubernetes quizzes and exercises, revisiting [MITx: 6.00.1xIntroduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) week 3.   
 Today: Move on to Lesson 4 Open Source PaaS.  
 blocker: None   
 
-D 19 -    
+Day 19 -    
 Yesterday: Read and Submitted student story challenge 😊 having a lot of encouragement from student stories. Spent a day reading and recall Lesson 3 Container Orchestration with Kubernetes, revisiting [MITx: 6.00.1xIntroduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) week 3, week 4 and [MIT 6.824: Distributed Systems](https://www.youtube.com/channel/UC_7WrbZTCODu1o_kfUMq88g/videos).   
 Today: Still need to spend a day trying to recall and combine Lesson 3 Container Orchestration with Kubernetes further reading, [MIT 6.824: Distributed Systems](https://www.youtube.com/channel/UC_7WrbZTCODu1o_kfUMq88g/videos), [C++ Nanodegree Program curriculum 4. Memory Management, 5. Concurrency](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213), with [Harvard CS50X lectures](https://www.google.com/search?q=harvard+cs50+kubernetes&rlz=1C5CHFA_enTW700TW701&ei=qgDhYLedLtqYr7wPk8ujiAU&oq=harvard+CS50+kuber&gs_lcp=Cgdnd3Mtd2l6EAEYADIFCCEQoAE6BwgAEEcQsAM6BggAEBYQHkoECEEYAFDvmwFYhK0BYJ66AWgCcAF4AIABpgOIAYoPkgEJMC4xLjQuMS4xmAEAoAEBqgEHZ3dzLXdpesgBCMABAQ&sclient=gws-wiz), [MITx: 6.00.1xIntroduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) and [Data Engineer Nanodegree Program](https://www.udacity.com/course/data-engineer-nanodegree--nd027) curriculum 4 Data Lakes with Spark together.    
 blocker: I went out for 5 km jogging 🏃, forgot my key and locked myself out of my home 😅.  
