@@ -9,6 +9,7 @@
 [image4]: ./image/Badge.png  
 [image5]: ./image/lovelyLetter.PNG
 [image6]: ./image/mentorTime.png
+[image7]: ./image/story.png
 
 Day 1 -  
 Yesterday: Read Lesson 3 Container Orchestration with Kubernetes section 3 Docker for Application Packaging and read rule and sign up for Daily Scrum Challenge.  
@@ -172,3 +173,11 @@ Day 19 -
 Yesterday: Read and Submitted student story challenge 😊 having a lot of encouragement from student stories. Spent a day reading and recall Lesson 3 Container Orchestration with Kubernetes, revisiting [MITx: 6.00.1xIntroduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) week 3, week 4 and [MIT 6.824: Distributed Systems](https://www.youtube.com/channel/UC_7WrbZTCODu1o_kfUMq88g/videos).   
 Today: Still need to spend a day trying to recall and combine Lesson 3 Container Orchestration with Kubernetes further reading, [MIT 6.824: Distributed Systems](https://www.youtube.com/channel/UC_7WrbZTCODu1o_kfUMq88g/videos), [C++ Nanodegree Program curriculum 4. Memory Management, 5. Concurrency](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213), with [Harvard CS50X lectures](https://www.google.com/search?q=harvard+cs50+kubernetes&rlz=1C5CHFA_enTW700TW701&ei=qgDhYLedLtqYr7wPk8ujiAU&oq=harvard+CS50+kuber&gs_lcp=Cgdnd3Mtd2l6EAEYADIFCCEQoAE6BwgAEEcQsAM6BggAEBYQHkoECEEYAFDvmwFYhK0BYJ66AWgCcAF4AIABpgOIAYoPkgEJMC4xLjQuMS4xmAEAoAEBqgEHZ3dzLXdpesgBCMABAQ&sclient=gws-wiz), [MITx: 6.00.1xIntroduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) and [Data Engineer Nanodegree Program](https://www.udacity.com/course/data-engineer-nanodegree--nd027) curriculum 4 Data Lakes with Spark together.    
 blocker: I went out for 5 km jogging 🏃, forgot my key and locked myself out of my home 😅.  
+
+Day 20 -    
+Yesterday: Spent a day reading and recall Lesson 3 Container Orchestration with Kubernetes, [Data Engineer Nanodegree Program](https://www.udacity.com/course/data-engineer-nanodegree--nd027) curriculum 4 Data Lakes with Spark, revisiting [MITx: 6.00.1xIntroduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) week 4 my 2014 problem set and [MIT 6.824: Distributed Systems](https://www.youtube.com/channel/UC_7WrbZTCODu1o_kfUMq88g/videos).   
+Today: Still need to spend a day trying to recall and combine Lesson 3 Container Orchestration with Kubernetes further reading, [MIT 6.824: Distributed Systems](https://www.youtube.com/channel/UC_7WrbZTCODu1o_kfUMq88g/videos), [C++ Nanodegree Program curriculum 4. Memory Management, 5. Concurrency](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213), with [Harvard CS50X lectures](https://www.google.com/search?q=harvard+cs50+kubernetes&rlz=1C5CHFA_enTW700TW701&ei=qgDhYLedLtqYr7wPk8ujiAU&oq=harvard+CS50+kuber&gs_lcp=Cgdnd3Mtd2l6EAEYADIFCCEQoAE6BwgAEEcQsAM6BggAEBYQHkoECEEYAFDvmwFYhK0BYJ66AWgCcAF4AIABpgOIAYoPkgEJMC4xLjQuMS4xmAEAoAEBqgEHZ3dzLXdpesgBCMABAQ&sclient=gws-wiz), [MITx: 6.00.1xIntroduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7), [Data Engineer Nanodegree Program](https://www.udacity.com/course/data-engineer-nanodegree--nd027) curriculum 4 Data Lakes with Spark and found [HarvardX CS50
+CS50's Introduction to Computer Science 2021 in my edX](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) plan to revisit the brand-new Lectures ❤️.  
+blocker: Still trying to stick with the sprint 1 week 5 plan digest Lesson 3 Container Orchestration with Kubernetes further reading.  
+My student story challenge photo 😎 🌟:    
+![][image7]  
