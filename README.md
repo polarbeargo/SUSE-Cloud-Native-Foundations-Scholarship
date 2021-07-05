@@ -181,3 +181,11 @@ CS50's Introduction to Computer Science 2021 in my edX](https://www.edx.org/cour
 blocker: Still trying to stick with the sprint 1 week 5 plan digest Lesson 3 Container Orchestration with Kubernetes further reading.  
 My student story challenge photo 😎 🌟:    
 ![][image7]  
+
+Day 21 -  
+Yesterday: Recently received encouragement from @EViG, @Frida, @Mariia, @Oaudarjya in #st_spaic. Digest Lesson 3 Container Orchestration with Kubernetes further reading continue update ml resource in #st_ai_ml_rl, reading [Data Engineer Nanodegree Program](https://www.udacity.com/course/data-engineer-nanodegree--nd027) curriculum 4 Data Lakes with Spark, revisiting [HarvardX CS50
+CS50's Introduction to Computer Science 2021](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x), [MITx: 6.00.1xIntroduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) week 4 my 2014 problem set, midterm exam and [MIT 6.824: Distributed Systems](https://www.youtube.com/channel/UC_7WrbZTCODu1o_kfUMq88g/videos).   
+Today: Recall and combine Lesson 3 Container Orchestration with Kubernetes further reading follow sprint challenge start Lesson 4 Open Source PaaS. Reading [Data Engineer Nanodegree Program](https://www.udacity.com/course/data-engineer-nanodegree--nd027) curriculum 4 Data Lakes with Spark, revisiting [HarvardX CS50
+CS50's Introduction to Computer Science 2021](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x), [MITx: 6.00.1xIntroduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) week 4 my 2014 problem set, midterm exam and [MIT 6.824: Distributed Systems](https://www.youtube.com/channel/UC_7WrbZTCODu1o_kfUMq88g/videos). Plan revisiting [HarvardX CS50
+CS50's Introduction to Computer Science 2013](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) for memory ❤️.     
+Blocker: Separate kind and rancher in Kubernetes digest Lesson 3 Container Orchestration with Kubernetes Lesson review.  
