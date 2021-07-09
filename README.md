@@ -209,3 +209,9 @@ Day 24 -
 Yesterday: This year MITx has a lovely event is that I finally can have a chance to prepare a gift to MIT 😊! As I received an email which is written "Thank you for your gift to MIT, I feel a 😊 blush on my face that day. Yesterday I never expected to receive another email from MITx with my name in a beautiful blue color 😊! I feel happy because after 7 years I finally can have a chance prepare a gift for MITx. I read these two emails from MIT, MITx, and emails from the Udacity scholarship team many many times.  
 Today: I plan to relax do nothing for a day to have time to allow the knowledge I learn to come back to me after I've been flushed away by them.  
 blocker: Been flushed away by the knowledge I learn.    
+
+Day 25 -  
+Yesterday: Reading Lesson 5 CI/CD with cloud native tooling, revisiting [HarvardX CS50
+CS50's Introduction to Computer Science 2021 week 3](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x), [C++ Nanodegree Program curriculum 4. Memory Management](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213) chipped the knowledge piece by piece.  
+Today: This weekends Udacity SUSE scholarship and @st_spaic have a lot of super fun and exciting 🌹 webinars and meetings planning sleep recovery for a day and catch up with everyone in the evening to around 2:00 AM 🥰. Reading [Sir Michael Virgo's Rideshare-Simulation](https://github.com/mvirgo/Rideshare-Simulation) and student stories.    
+blocker: Good night world 😴.  
