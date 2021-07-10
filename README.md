@@ -217,6 +217,6 @@ Today: This weekends Udacity SUSE scholarship and @st_spaic have a lot of super 
 blocker: Good night world 😴.  
 
 Day 7 - Sprint 2:    
-Yesterday: Take a good day sleep 😴.  
+Yesterday: Took a good day sleep 😴.  
 Today: Still need a day sleep 😴.  
 blocker: Wait for my mind back.  
