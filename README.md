@@ -174,7 +174,7 @@ Yesterday: Read and Submitted student story challenge 😊 having a lot of encou
 Today: Still need to spend a day trying to recall and combine Lesson 3 Container Orchestration with Kubernetes further reading, [MIT 6.824: Distributed Systems](https://www.youtube.com/channel/UC_7WrbZTCODu1o_kfUMq88g/videos), [C++ Nanodegree Program curriculum 4. Memory Management, 5. Concurrency](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213), with [Harvard CS50X lectures](https://www.google.com/search?q=harvard+cs50+kubernetes&rlz=1C5CHFA_enTW700TW701&ei=qgDhYLedLtqYr7wPk8ujiAU&oq=harvard+CS50+kuber&gs_lcp=Cgdnd3Mtd2l6EAEYADIFCCEQoAE6BwgAEEcQsAM6BggAEBYQHkoECEEYAFDvmwFYhK0BYJ66AWgCcAF4AIABpgOIAYoPkgEJMC4xLjQuMS4xmAEAoAEBqgEHZ3dzLXdpesgBCMABAQ&sclient=gws-wiz), [MITx: 6.00.1xIntroduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) and [Data Engineer Nanodegree Program](https://www.udacity.com/course/data-engineer-nanodegree--nd027) curriculum 4 Data Lakes with Spark together.    
 blocker: I went out for 5 km jogging 🏃, forgot my key and locked myself out of my home 😅.  
 
-Day 20 -    
+Day 1 - Sprint 2:    
 Yesterday: Spent a day reading and recall Lesson 3 Container Orchestration with Kubernetes, [Data Engineer Nanodegree Program](https://www.udacity.com/course/data-engineer-nanodegree--nd027) curriculum 4 Data Lakes with Spark, revisiting [MITx: 6.00.1xIntroduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) week 4 my 2014 problem set and [MIT 6.824: Distributed Systems](https://www.youtube.com/channel/UC_7WrbZTCODu1o_kfUMq88g/videos).   
 Today: Still need to spend a day trying to recall and combine Lesson 3 Container Orchestration with Kubernetes further reading, [MIT 6.824: Distributed Systems](https://www.youtube.com/channel/UC_7WrbZTCODu1o_kfUMq88g/videos), [C++ Nanodegree Program curriculum 4. Memory Management, 5. Concurrency](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213), with [Harvard CS50X lectures](https://www.google.com/search?q=harvard+cs50+kubernetes&rlz=1C5CHFA_enTW700TW701&ei=qgDhYLedLtqYr7wPk8ujiAU&oq=harvard+CS50+kuber&gs_lcp=Cgdnd3Mtd2l6EAEYADIFCCEQoAE6BwgAEEcQsAM6BggAEBYQHkoECEEYAFDvmwFYhK0BYJ66AWgCcAF4AIABpgOIAYoPkgEJMC4xLjQuMS4xmAEAoAEBqgEHZ3dzLXdpesgBCMABAQ&sclient=gws-wiz), [MITx: 6.00.1xIntroduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7), [Data Engineer Nanodegree Program](https://www.udacity.com/course/data-engineer-nanodegree--nd027) curriculum 4 Data Lakes with Spark and found [HarvardX CS50
 CS50's Introduction to Computer Science 2021 in my edX](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) plan to revisit the brand-new Lectures ❤️.  
@@ -182,7 +182,7 @@ blocker: Still trying to stick with the sprint 1 week 5 plan digest Lesson 3 Con
 My student story challenge photo 😎 🌟:    
 ![][image7]  
 
-Day 21 -  
+Day 2 - Sprint 2:  
 Yesterday: Recently received encouragement from @EViG, @Frida, @Mariia, @Oudarjya in #st_spaic. Digest Lesson 3 Container Orchestration with Kubernetes further reading continue update ml resource in #st_ai_ml_rl, reading [Data Engineer Nanodegree Program](https://www.udacity.com/course/data-engineer-nanodegree--nd027) curriculum 4 Data Lakes with Spark, revisiting [HarvardX CS50
 CS50's Introduction to Computer Science 2021](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x), [MITx: 6.00.1xIntroduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) week 4 my 2014 problem set, midterm exam and [MIT 6.824: Distributed Systems](https://www.youtube.com/channel/UC_7WrbZTCODu1o_kfUMq88g/videos).   
 Today: Recall and combine Lesson 3 Container Orchestration with Kubernetes further reading follow sprint challenge start Lesson 4 Open Source PaaS. Reading [Data Engineer Nanodegree Program](https://www.udacity.com/course/data-engineer-nanodegree--nd027) curriculum 4 Data Lakes with Spark, revisiting [HarvardX CS50
@@ -190,7 +190,7 @@ CS50's Introduction to Computer Science 2021](https://www.edx.org/course/introdu
 CS50's Introduction to Computer Science 2013](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) for memory ❤️.     
 Blocker: Separate kind and rancher in Kubernetes digest Lesson 3 Container Orchestration with Kubernetes Lesson review.  
 
-Day 22 -   
+Day 3 - Sprint 2:   
 Yesterday: Submitted Daily Scrum Challenge Sprint #2 - Commitment Form, reading and writing Lesson 4 Open Source PaaS quizzes and exercises, Lesson 5 CI/CD with cloud native tooling, digest Lesson 3 Container Orchestration with Kubernetes Lesson review, [Data Engineer Nanodegree Program](https://www.udacity.com/course/data-engineer-nanodegree--nd027) curriculum 4 Data Lakes with Spark Lesson 4 Debugging and Optimization, [Building Modern Python Applications on AWS](https://www.coursera.org/learn/building-modern-python-applications-on-aws/home/welcome), revisiting [HarvardX CS50
 CS50's Introduction to Computer Science 2021 week 3](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x), [MITx: 6.00.1xIntroduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) week 5, midterm exam and [MIT 6.824: Distributed Systems](https://www.youtube.com/channel/UC_7WrbZTCODu1o_kfUMq88g/videos).   
 Today: Reading and writing Lesson 5 CI/CD with cloud native tooling, [Data Engineer Nanodegree Program](https://www.udacity.com/course/data-engineer-nanodegree--nd027) curriculum 4 Data Lakes with Spark Lesson 4 Debugging and Optimization, [Building Modern Python Applications on AWS Lab](https://www.coursera.org/learn/building-modern-python-applications-on-aws/home/welcome), revisiting [HarvardX CS50
@@ -198,20 +198,25 @@ CS50's Introduction to Computer Science 2021 week 3](https://www.edx.org/course/
 Blocker: Need time pause and recall lecture materials like [Sir Andrew Huberman Podcast: Hearing balance and learning](https://youtu.be/JVRyzYB9JSY)  
 [![](https://img.youtube.com/vi/JVRyzYB9JSY/0.jpg)](https://youtu.be/JVRyzYB9JSY).    
 
-Day 23 -  
+Day 4 - Sprint 2:  
 Yesterday: Reading and writing Lesson 5 CI/CD with cloud native tooling quizzes and exercises, [Data Engineer Nanodegree Program](https://www.udacity.com/course/data-engineer-nanodegree--nd027) curriculum 4 Data Lakes with Spark Lesson 4 Debugging and Optimization, revisiting [HarvardX CS50
 CS50's Introduction to Computer Science 2021 week 3](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x), [MITx: 6.00.1xIntroduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) week 5, [C++ Nanodegree Program curriculum 4. Memory Management, 5. Concurrency](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213).  
 Today: Continue reading and writing Lesson 5 CI/CD with cloud native tooling quizzes, revisiting [HarvardX CS50
 CS50's Introduction to Computer Science 2021 week 3](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x), [MITx: 6.00.1xIntroduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) week 5, [C++ Nanodegree Program curriculum 4. Memory Management, 5. Concurrency](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213). Received encouragement from @Md.Masud.Rana in #st_ai_ml_rl, @Haris.Muhammad and @Frida in #st_spaic. Received a lovely email from the Udacity Scholarship team 🌹, thank you 😊.     
 Blocker: I want to join #st_spaic and #st_memers weekly meeting on weekends.
 
-Day 24 -  
+Day 5 - Sprint 2:
 Yesterday: This year MITx has a lovely event is that I finally can have a chance to prepare a gift to MIT 😊! As I received an email which is written "Thank you for your gift to MIT, I feel a 😊 blush on my face that day. Yesterday I never expected to receive another email from MITx with my name in a beautiful blue color 😊! I feel happy because after 7 years I finally can have a chance prepare a gift for MITx. I read these two emails from MIT, MITx, and emails from the Udacity scholarship team many many times.  
 Today: I plan to relax do nothing for a day to have time to allow the knowledge I learn to come back to me after I've been flushed away by them.  
 blocker: Been flushed away by the knowledge I learn.    
 
-Day 25 -  
+Day 6 - Sprint 2:    
 Yesterday: Reading Lesson 5 CI/CD with cloud native tooling, revisiting [HarvardX CS50
 CS50's Introduction to Computer Science 2021 week 3](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x), [C++ Nanodegree Program curriculum 4. Memory Management](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213) chipped the knowledge piece by piece.  
 Today: This weekends Udacity SUSE scholarship and @st_spaic have a lot of super fun and exciting 🌹 webinars and meetings planning sleep recovery for a day and catch up with everyone in the evening to around 2:00 AM 🥰. Reading [Sir Michael Virgo's Rideshare-Simulation](https://github.com/mvirgo/Rideshare-Simulation) and student stories.    
 blocker: Good night world 😴.  
+
+Day 7 - Sprint 2:    
+Yesterday: Take a good day sleep 😴.  
+Today: Still need a day sleep 😴.  
+blocker: Wait for my mind back.  
