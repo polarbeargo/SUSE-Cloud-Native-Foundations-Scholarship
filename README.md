@@ -205,7 +205,7 @@ Today: Continue reading and writing Lesson 5 CI/CD with cloud native tooling qui
 CS50's Introduction to Computer Science 2021 week 3](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x), [MITx: 6.00.1xIntroduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) week 5, [C++ Nanodegree Program curriculum 4. Memory Management, 5. Concurrency](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213). Received encouragement from @Md.Masud.Rana in #st_ai_ml_rl, @Haris.Muhammad and @Frida in #st_spaic. Received a lovely email from the Udacity Scholarship team 🌹, thank you 😊.     
 Blocker: I want to join #st_spaic and #st_memers weekly meeting on weekends.
 
-Day 5 - Sprint 2:
+Day 5 - Sprint 2:  
 Yesterday: This year MITx has a lovely event is that I finally can have a chance to prepare a gift to MIT 😊! As I received an email which is written "Thank you for your gift to MIT, I feel a 😊 blush on my face that day. Yesterday I never expected to receive another email from MITx with my name in a beautiful blue color 😊! I feel happy because after 7 years I finally can have a chance prepare a gift for MITx. I read these two emails from MIT, MITx, and emails from the Udacity scholarship team many many times.  
 Today: I plan to relax do nothing for a day to have time to allow the knowledge I learn to come back to me after I've been flushed away by them.  
 blocker: Been flushed away by the knowledge I learn.    
