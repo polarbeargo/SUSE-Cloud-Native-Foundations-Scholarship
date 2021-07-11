@@ -220,3 +220,8 @@ Day 7 - Sprint 2:
 Yesterday: Took a good day sleep 😴.  
 Today: Still need a day sleep 😴.  
 blocker: Wait for my mind back.  
+
+Day 8 - Sprint 2:    
+Yesterday: Took a good day sleep 😴.  
+Today: Reading Lesson 5 CI/CD with cloud native tooling section 9 The Continuous Delivery (CD) Fundamentals.  
+blocker: None  
