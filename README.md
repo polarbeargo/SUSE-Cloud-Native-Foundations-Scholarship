@@ -191,7 +191,7 @@ CS50's Introduction to Computer Science 2013](https://www.edx.org/course/introdu
 Blocker: Separate kind and rancher in Kubernetes digest Lesson 3 Container Orchestration with Kubernetes Lesson review.  
 
 Day 3 - Sprint 2:   
-Yesterday: Submitted Daily Scrum Challenge Sprint #2 - Commitment Form, reading and writing Lesson 4 Open Source PaaS quizzes and exercises, Lesson 5 CI/CD with cloud native tooling, digest Lesson 3 Container Orchestration with Kubernetes Lesson review, [Data Engineer Nanodegree Program](https://www.udacity.com/course/data-engineer-nanodegree--nd027) curriculum 4 Data Lakes with Spark Lesson 4 Debugging and Optimization, [Building Modern Python Applications on AWS](https://www.coursera.org/learn/building-modern-python-applications-on-aws/home/welcome), revisiting [HarvardX CS50
+Yesterday: Submitted Daily Scrum Challenge Sprint #2 - Commitment Form, Read and wrote Lesson 4 Open Source PaaS quizzes and exercises, Lesson 5 CI/CD with cloud native tooling, digest Lesson 3 Container Orchestration with Kubernetes Lesson review, [Data Engineer Nanodegree Program](https://www.udacity.com/course/data-engineer-nanodegree--nd027) curriculum 4 Data Lakes with Spark Lesson 4 Debugging and Optimization, [Building Modern Python Applications on AWS](https://www.coursera.org/learn/building-modern-python-applications-on-aws/home/welcome), revisited [HarvardX CS50
 CS50's Introduction to Computer Science 2021 week 3](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x), [MITx: 6.00.1xIntroduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) week 5, midterm exam and [MIT 6.824: Distributed Systems](https://www.youtube.com/channel/UC_7WrbZTCODu1o_kfUMq88g/videos).   
 Today: Reading and writing Lesson 5 CI/CD with cloud native tooling, [Data Engineer Nanodegree Program](https://www.udacity.com/course/data-engineer-nanodegree--nd027) curriculum 4 Data Lakes with Spark Lesson 4 Debugging and Optimization, [Building Modern Python Applications on AWS Lab](https://www.coursera.org/learn/building-modern-python-applications-on-aws/home/welcome), revisiting [HarvardX CS50
 CS50's Introduction to Computer Science 2021 week 3](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x), [MITx: 6.00.1xIntroduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) week 5 and [MIT 6.824: Distributed Systems](https://www.youtube.com/channel/UC_7WrbZTCODu1o_kfUMq88g/videos).    
@@ -199,7 +199,7 @@ Blocker: Need time pause and recall lecture materials like [Sir Andrew Huberman 
 [![](https://img.youtube.com/vi/JVRyzYB9JSY/0.jpg)](https://youtu.be/JVRyzYB9JSY).    
 
 Day 4 - Sprint 2:  
-Yesterday: Reading and writing Lesson 5 CI/CD with cloud native tooling quizzes and exercises, [Data Engineer Nanodegree Program](https://www.udacity.com/course/data-engineer-nanodegree--nd027) curriculum 4 Data Lakes with Spark Lesson 4 Debugging and Optimization, revisiting [HarvardX CS50
+Yesterday: Read and wrote Lesson 5 CI/CD with cloud native tooling quizzes and exercises, [Data Engineer Nanodegree Program](https://www.udacity.com/course/data-engineer-nanodegree--nd027) curriculum 4 Data Lakes with Spark Lesson 4 Debugging and Optimization, revisited [HarvardX CS50
 CS50's Introduction to Computer Science 2021 week 3](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x), [MITx: 6.00.1xIntroduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) week 5, [C++ Nanodegree Program curriculum 4. Memory Management, 5. Concurrency](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213).  
 Today: Continue reading and writing Lesson 5 CI/CD with cloud native tooling quizzes, revisiting [HarvardX CS50
 CS50's Introduction to Computer Science 2021 week 3](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x), [MITx: 6.00.1xIntroduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) week 5, [C++ Nanodegree Program curriculum 4. Memory Management, 5. Concurrency](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213). Received encouragement from @Md.Masud.Rana in #st_ai_ml_rl, @Haris.Muhammad and @Frida in #st_spaic. Received a lovely email from the Udacity Scholarship team 🌹, thank you 😊.     
@@ -211,7 +211,7 @@ Today: I plan to relax do nothing for a day to have time to allow the knowledge 
 blocker: Been flushed away by the knowledge I learn.    
 
 Day 6 - Sprint 2:    
-Yesterday: Reading Lesson 5 CI/CD with cloud native tooling, revisiting [HarvardX CS50
+Yesterday: Read Lesson 5 CI/CD with cloud native tooling, revisited [HarvardX CS50
 CS50's Introduction to Computer Science 2021 week 3](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x), [C++ Nanodegree Program curriculum 4. Memory Management](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213) chipped the knowledge piece by piece.  
 Today: This weekends Udacity SUSE scholarship and @st_spaic have a lot of super fun and exciting 🌹 webinars and meetings planning sleep recovery for a day and catch up with everyone in the evening to around 2:00 AM 🥰. Reading [Sir Michael Virgo's Rideshare-Simulation](https://github.com/mvirgo/Rideshare-Simulation) and student stories.    
 blocker: Good night world 😴.  
@@ -224,4 +224,9 @@ blocker: Wait for my mind back.
 Day 8 - Sprint 2:    
 Yesterday: Took a good day sleep 😴.  
 Today: Reading Lesson 5 CI/CD with cloud native tooling section 9 The Continuous Delivery (CD) Fundamentals.  
+blocker: None  
+
+Day 9 - Sprint 2:     
+Yesterday: Read and wrote Lesson 5 CI/CD with cloud native tooling section 9 ArgoCD walkthrough, quizzes,  and GitOps further readings. revisited [MITx: 6.00.1xIntroduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) week 5 Lecture 10 Memory and search.  
+Today: Having a fun time with Exercise The CD Fundamentals. Reading [Data Engineer Nanodegree Program](https://www.udacity.com/course/data-engineer-nanodegree--nd027) curriculum 4 Data Lakes with Spark Lesson 4 Debugging and Optimization, Lesson 5 Introduction to Data Lake and Implementing project data lake.    
 blocker: None  
