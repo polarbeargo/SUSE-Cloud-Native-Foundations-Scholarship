@@ -230,3 +230,8 @@ Day 9 - Sprint 2:
 Yesterday: Read and wrote Lesson 5 CI/CD with cloud native tooling section 9 ArgoCD walkthrough, quizzes,  and GitOps further readings. revisited [MITx: 6.00.1xIntroduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) week 5 Lecture 10 Memory and search.  
 Today: Having a fun time with Exercise The CD Fundamentals. Reading [Data Engineer Nanodegree Program](https://www.udacity.com/course/data-engineer-nanodegree--nd027) curriculum 4 Data Lakes with Spark Lesson 4 Debugging and Optimization, Lesson 5 Introduction to Data Lake and Implementing project data lake.    
 blocker: None  
+
+Day 10 - Sprint 2:     
+Yesterday: Read Palak.Udacity's guidance going through the whole course once and get hold of the broader knowledge and then once I completed the course than dive deeper. Finished reading and writing Lesson 5 CI/CD with cloud native tooling quizzes.  
+Today: Examine Lesson 4, 5 quizzes, and dive deeper into the further readings.  
+blocker: None.  
