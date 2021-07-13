@@ -232,6 +232,6 @@ Today: Having a fun time with Exercise The CD Fundamentals. Reading [Data Engine
 blocker: None  
 
 Day 10 - Sprint 2:     
-Yesterday: Read Palak.Udacity's guidance going through the whole course once and get hold of the broader knowledge and then once I completed the course than dive deeper. Finished reading and writing Lesson 5 CI/CD with cloud native tooling quizzes.  
+Yesterday: Read Palak.Udacity's guidance going through the whole course once and get hold of the broader knowledge and then once completed the course then dive deeper. Finished reading and writing Lesson 5 CI/CD with cloud native tooling quizzes.  
 Today: Examine Lesson 4, 5 quizzes, and dive deeper into the further readings.  
 blocker: None.  
