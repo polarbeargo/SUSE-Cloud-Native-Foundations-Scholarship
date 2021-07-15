@@ -238,5 +238,10 @@ blocker: None.
 
 Day 11 - Sprint 2:     
 Yesterday: Found out I missed a live ama session in zoom. Too bad missed an opportunity to enjoy my time with Palak.Udacity, Isabella.Udacity and fellow scholars.  Read [Data Engineer Nanodegree Program](https://www.udacity.com/course/data-engineer-nanodegree--nd027) curriculum 4 Data Lakes with Spark Lesson 5 Introduction to Data Lake and project data lake. Watched [MIT 6.824: Distributed Systems](https://www.youtube.com/channel/UC_7WrbZTCODu1o_kfUMq88g/videos).    
-Today: Examine Lesson 4, 5 quizzes, and dive deeper into the further readings. Reading and Implementing project data lake.  
+Today: Examine Lesson 4, 5 quizzes, and dive deeper into the further readings. Reading and implementing project data lake.  
 blocker: None.  
+
+Day 12 - Sprint 2:     
+Yesterday: Examined Lesson 4, 5 quizzes, and dive deeper into the further readings. Read and Implemented project data lake and signed up for Study Buddy Program.      
+Today: Reading, and implementing project data lake, revisiting Lesson 5 CI/CD with cloud native tooling and Lesson 4 Open Source PaaS lecture materials and further readings.  
+blocker: None
