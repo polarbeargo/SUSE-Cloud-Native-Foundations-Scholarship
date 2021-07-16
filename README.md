@@ -245,3 +245,8 @@ Day 12 - Sprint 2:
 Yesterday: Examined Lesson 4, 5 quizzes, and dive deeper into the further readings. Read and Implemented project data lake and signed up for Study Buddy Program.      
 Today: Reading, and implementing project data lake, revisiting Lesson 5 CI/CD with cloud native tooling and Lesson 4 Open Source PaaS lecture materials and further readings.  
 blocker: None
+
+Day 13 - Sprint 2:     
+Yesterday: Revisited Lesson 5 CI/CD with cloud native tooling section 5 Github Actions Walkthrough. Read, and implemented project data lake.  
+Today: Attending the Lesson Walkthroughs by #l1_cloud_fundamentals. Reading, and implementing the project data lake. Super exciting about the upcoming events like lesson walkthroughs and Cloud Native Foundations AMA Session 🌟! Participating study jam! Jam with everyone 🤩 to midnight! Thank you, #l1_cloud_fundamentals for the Lesson Walkthroughs!      
+blocker: None
