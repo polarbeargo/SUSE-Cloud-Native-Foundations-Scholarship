@@ -250,3 +250,8 @@ Day 13 - Sprint 2:
 Yesterday: Revisited Lesson 5 CI/CD with cloud native tooling section 5 Github Actions Walkthrough. Read, and implemented project data lake.  
 Today: Attending the Lesson Walkthroughs by #l1_cloud_fundamentals. Reading, and implementing the project data lake. Super exciting about the upcoming events like lesson walkthroughs and Cloud Native Foundations AMA Session 🌟! Participating study jam! Jam with everyone 🤩 to midnight! Thank you, #l1_cloud_fundamentals for the Lesson Walkthroughs!      
 blocker: None
+
+Day 14 - Sprint 2:  
+Yesterday: Revisited Lesson 1 Introduction to Cloud-Native Fundamentals and Lesson 2 Architecture Consideration for Cloud Native Application. Read, and implemented project data lake.    
+Today: Sleep 😪 for recovery and join tonight's study JAM to midnight! Jam with everyone 🤩 to midnight!  
+blocker: The huge wave of want to fall into sleep near the midnight 😴
