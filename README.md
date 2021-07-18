@@ -255,3 +255,8 @@ Day 14 - Sprint 2:
 Yesterday: Revisited Lesson 1 Introduction to Cloud-Native Fundamentals and Lesson 2 Architecture Consideration for Cloud Native Applications. Read, and implemented project data lake.    
 Today: Sleep 😪 for recovery and join tonight's study JAM to midnight! Jam with everyone 🤩 to midnight! Filled out the study JAM form 🌟!  
 blocker: The huge wave of want to fall into sleep near the midnight 😴
+
+Day 15 - Sprint 2:  
+Yesterday: Participated in study jam.  
+Today: Join Webinar: Cloud Security - AWS as a Case Study with Adeyemi at 1:00 AM. Revisiting Lesson 3 Container Orchestration with Kubernetes.  
+Blocker: None
