@@ -10,7 +10,7 @@
 [image5]: ./image/lovelyLetter.PNG
 [image6]: ./image/mentorTime.png
 [image7]: ./image/story.png
-[image7]: ./image/Badge2.png
+[image8]: ./image/Badge2.png
 
 Day 1 -  
 Yesterday: Read Lesson 3 Container Orchestration with Kubernetes section 3 Docker for Application Packaging and read rule and sign up for Daily Scrum Challenge.  
