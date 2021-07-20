@@ -11,6 +11,10 @@
 [image6]: ./image/mentorTime.png
 [image7]: ./image/story.png
 [image8]: ./image/Badge2.png
+[image9]: ./image/ama1.png
+[image10]: ./image/ama2.png
+[image11]: ./image/ama3.png
+[image12]: ./image/ama4.png
 
 Day 1 -  
 Yesterday: Read Lesson 3 Container Orchestration with Kubernetes section 3 Docker for Application Packaging and read rule and sign up for Daily Scrum Challenge.  
@@ -267,3 +271,14 @@ Yesterday: Revisited Lesson 3 Container Orchestration with Kubernetes. Read, and
 Today: 14 Days away from the Phase 1 deadline. ⏳ Reading, and implementing the project data lake. Completed Sprint #2 completion form.   
 blocker: None.    
 ![][image8]   
+
+Day 17 - Sprint 2:  
+Yesterday: Watched Webinar: Cloud Security - AWS as a Case Study with Adeyemi recording. Revisited Lesson 3 Container Orchestration with Kubernetes section 16 Kubernetes Resources Part 1. Signed up for Kaggle's 30 days of ML.    
+Today: Having a fun time in Live Community Manager AMA! It's good to hear Palak.Udacity call my name 😊, talking and interacting with Palak.Udacity, Isabella.Udacity and warm catch up with Santiago Frias 🌹. Thank you for saying Hi to me. I love to listen to people share their stories and things they love. Glad I made it to the last Live Community Manager AMA 🥰 . Count down 13 Days away from the Phase 1 deadline ⏳.  
+blocker: None  
+
+AMA 1| AMA 2
+:-----------------:|:-----------------:|
+![][image9]        |![][image10]        |  
+AMA 3| AMA 4
+![][image11]        | ![][image12]                  |
