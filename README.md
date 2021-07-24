@@ -296,6 +296,6 @@ blocker: None
 
 Day 20 - Sprint 2:  
 Yesterday: Revisited Lesson 3 Container Orchestration with Kubernetes section 17 Kubernetes Resources Part 3. Read, and implemented [Data Engineer Nanodegree Program](https://www.udacity.com/course/data-engineer-nanodegree--nd027) project data lake. Immersed myself in the SUSE and Rancher community started Academy class ACCELERATE DEV WORKFLOWS Week 1 challenge: Set up a local Kubernetes cluster.     
-Today: Having a good time meet @German.Ramirez 🙂 in 1vs 1 call, listen to @German.Ramirez introduce Lesson 2,3,4,5 to me with diagram drawing 🌟! Discuss [Kaggle's 30 days of ML](https://www.kaggle.com/thirty-days-of-ml) Google hangout meet time. Reading, and implementing [Data Engineer Nanodegree Program](https://www.udacity.com/course/data-engineer-nanodegree--nd027) project data lake. Count down 10 Days away from the Phase 1 deadline ⏳.    
+Today: Having a good time meet @German.Ramirez 🙂 in 1vs 1 call, listen to @German.Ramirez introduce Lesson 2,3,4,5 to me with diagram drawing 🌟! Discuss [Kaggle's 30 days of ML](https://www.kaggle.com/thirty-days-of-ml) Google hangout meet time. Reading, and implementing [Data Engineer Nanodegree Program](https://www.udacity.com/course/data-engineer-nanodegree--nd027) project data lake. Count down 10 Days away from the Phase 1 deadline ⏳. After Bertelsmann Technology Scholarship finally become friend with @Daniel.Montilla 😊!   
 blocker: Need to spend two days focus on finish debugging project data lake 😱.   
 ![][image13] 
