@@ -15,6 +15,7 @@
 [image10]: ./image/ama2.png
 [image11]: ./image/ama3.png
 [image12]: ./image/ama4.png
+[image13]: ./image/studyBuddy.png  
 
 Day 1 -  
 Yesterday: Read Lesson 3 Container Orchestration with Kubernetes section 3 Docker for Application Packaging and read rule and sign up for Daily Scrum Challenge.  
@@ -282,3 +283,19 @@ AMA 1| AMA 2
 ![][image9]        |![][image10]        |  
 AMA 3| AMA 4
 ![][image11]        | ![][image12]                  |
+
+Day 18 - Sprint 2:  
+Yesterday: Revisited Lesson 3 Container Orchestration with Kubernetes section 17 Kubernetes Resources Part 2. Read, and implemented [Data Engineer Nanodegree Program](https://www.udacity.com/course/data-engineer-nanodegree--nd027) project data lake. Participated in the AMA Sessions with SUSE received a lot of guidance from @Tim and @Luke 🌟! Joined the SUSE and Rancher community discovered many Academy classes, open source projects 😆 and received warm welcome from Sarah. Warm catch up with my study buddy @German.Ramirez had a good time share thoughts together.  
+Today: Revisiting Lesson 3 Container Orchestration with Kubernetes section 17 Kubernetes Resources Part 2. Reading, and implementing [Data Engineer Nanodegree Program](https://www.udacity.com/course/data-engineer-nanodegree--nd027) project data lake. Count down 12 Days away from the Phase 1 deadline ⏳.  
+blocker: Need time looking around in the SUSE and Rancher community to continue to explore and discover many Academy classes and open source projects 😆!  
+
+Day 19 - Sprint 2:  
+Yesterday: Booked 1 vs 1 call for study buddy program feel grateful that I signed up so can have happy time exchange thoughts together with my study buddy @German.Ramirez 🙂. Revisited Lesson 3 Container Orchestration with Kubernetes section 17 Kubernetes Resources Part 2. Continue looked around in the SUSE and Rancher community started Academy class ACCELERATE DEV WORKFLOWS Week 1 session: Accelerate inner loop development super excited about the material and demo 🌟! Thank you to @German.Ramirez brings up [Kaggle's 30 days of ML](https://www.kaggle.com/thirty-days-of-ml) so I can invite my Kaggle BIPOC Program mentee Nicole team up having fun times together 😊. Shared Kaggle's 30 days of ML with Aftab, Sarah Majors and @Daniel.Montilla.   
+Today: Revisiting Lesson 3 Container Orchestration with Kubernetes section 17 Kubernetes Resources Part 2. Reading, and implementing [Data Engineer Nanodegree Program](https://www.udacity.com/course/data-engineer-nanodegree--nd027) project data lake. Immerse myself in the SUSE and Rancher community started Academy class ACCELERATE DEV WORKFLOWS Week 1 session: Accelerate inner loop development material and arrange times for playing Week 1 challenges: Accelerate inner loop development. Count down 11 Days away from the Phase 1 deadline ⏳.    
+blocker: None  
+
+Day 20 - Sprint 2:  
+Yesterday: Revisited Lesson 3 Container Orchestration with Kubernetes section 17 Kubernetes Resources Part 3. Read, and implemented [Data Engineer Nanodegree Program](https://www.udacity.com/course/data-engineer-nanodegree--nd027) project data lake. Immersed myself in the SUSE and Rancher community started Academy class ACCELERATE DEV WORKFLOWS Week 1 challenge: Set up a local Kubernetes cluster.     
+Today: Having a good time meet @German.Ramirez 🙂 in 1vs 1 call, listen to @German.Ramirez introduce Lesson 2,3,4,5 to me with diagram drawing 🌟! Discuss [Kaggle's 30 days of ML](https://www.kaggle.com/thirty-days-of-ml) Google hangout meet time. Reading, and implementing [Data Engineer Nanodegree Program](https://www.udacity.com/course/data-engineer-nanodegree--nd027) project data lake. Count down 10 Days away from the Phase 1 deadline ⏳.    
+blocker: Need to spend two days focus on finish debugging project data lake 😱.   
+![][image13] 
