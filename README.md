@@ -299,3 +299,15 @@ Yesterday: Revisited Lesson 3 Container Orchestration with Kubernetes section 17
 Today: Having a good time meet @German.Ramirez 🙂 in 1vs 1 call, listen to @German.Ramirez introduce Lesson 2,3,4,5 to me with diagram drawing 🌟! Discuss [Kaggle's 30 days of ML](https://www.kaggle.com/thirty-days-of-ml) Google hangout meet time. Reading, and implementing [Data Engineer Nanodegree Program](https://www.udacity.com/course/data-engineer-nanodegree--nd027) project data lake. Count down 10 Days away from the Phase 1 deadline ⏳. After Bertelsmann Technology Scholarship finally become friend with @Daniel.Montilla 😊!   
 blocker: Need to spend two days focus on finish debugging project data lake 😱.   
 ![][image13] 
+
+Day 21 - Sprint 2:  
+Yesterday: Had a good time meet @German.Ramirez 🙂 in 1vs 1 call, listened to @German.Ramirez introduce Lesson 2,3,4,5 to me with diagram drawing 🌟! Discussed [Kaggle's 30 days of ML](https://www.kaggle.com/thirty-days-of-ml) Google hangout meet time. Launched AWS EMR Cluster and port etl.py into notebook debugged [Data Engineer Nanodegree Program](https://www.udacity.com/course/data-engineer-nanodegree--nd027) project data lake. After Bertelsmann Technology Scholarship finally become friend with @Daniel.Montilla 😊! Recently watched:
+[Anya Fernald: Regenerative Farming and the Art of Cooking Meat | Lex Fridman Podcast #203](https://youtu.be/ew8U43IXTfk)  
+[![](https://img.youtube.com/vi/ew8U43IXTfk/0.jpg)](https://youtu.be/ew8U43IXTfk).   
+[Dr. Lex Fridman: Machines, Creativity & Love | Huberman Lab Podcast #29](https://youtu.be/VRvn3Oj5r3E)  
+[![](https://img.youtube.com/vi/VRvn3Oj5r3E/0.jpg)](https://youtu.be/VRvn3Oj5r3E).      
+Today: Launching AWS EMR Cluster debugging [Data Engineer Nanodegree Program](https://www.udacity.com/course/data-engineer-nanodegree--nd027) project data lake. Revisiting Lesson 3 Container Orchestration with Kubernetes section 19 Useful kubectl Commands. Count down 9 Days away from the Phase 1 deadline ⏳. Still super exciting, happy and celebrating the new Self-Driving Car Engineer Nanodegree Program release ❤️, I'm lucky that can be selected as the new Self-Driving Car Engineer Nanodegree Program beta tester, I love it very much 🌟! It's really good can hear Instructors their familiar and gentle voices again! The new lessons taught by new instructors are also very well structured, fun, and helped me progress a lot.         
+[Introducing the new and improved Self-Driving Car Engineer Nanodegree Program!](https://youtu.be/bgKYVZxptwc)  
+[![](https://img.youtube.com/vi/bgKYVZxptwc/0.jpg)](https://youtu.be/bgKYVZxptwc).   
+Received email which is written you are invited for "Data-centric AI: Real World Approaches", it's always good to have opportunity listen to Sir Andrew Ng's gentle familiar voice talks about topics he loves and passionate with.  
+blocker: Still debugging project data lake ✍️.  
