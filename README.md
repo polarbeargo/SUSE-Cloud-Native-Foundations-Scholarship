@@ -313,6 +313,6 @@ Received email which is written you are invited for "Data-centric AI: Real World
 blocker: Still debugging project data lake ✍️.  
 
 Day 22 - Sprint 2:  
-Yesterday: Examined all lesson contents such as quizzes and exercises are finished. I was debugging [Data Engineer Nanodegree Program](https://www.udacity.com/course/data-engineer-nanodegree--nd027) project data lake both on notebook instance attached with AWS EMR Cluster and the Udacity workspace. Read 1st review from dear reviewer which helps me a lot to know how many parts, I need to fix accordingly.  
-Today: Reading 2nd review continue fixing project data lake. Count down 8 Days away from the Phase 1 deadline ⏳.  
+Yesterday: Examined all lesson contents such as quizzes and exercises were finished. I was debugging [Data Engineer Nanodegree Program](https://www.udacity.com/course/data-engineer-nanodegree--nd027) project data lake both on notebook instance attached with AWS EMR Cluster and the Udacity workspace. Read 1st review from dear reviewer which helps me a lot to know how many parts, I need to fix accordingly.  
+Today: Reading 2nd review continue fixing project data lake.   
 blocker: None  
