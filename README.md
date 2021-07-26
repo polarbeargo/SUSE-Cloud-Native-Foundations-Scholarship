@@ -16,6 +16,7 @@
 [image11]: ./image/ama3.png
 [image12]: ./image/ama4.png
 [image13]: ./image/studyBuddy.png  
+[image14]: ./image/voteStudentStory.png
 
 Day 1 -  
 Yesterday: Read Lesson 3 Container Orchestration with Kubernetes section 3 Docker for Application Packaging and read rule and sign up for Daily Scrum Challenge.  
@@ -316,3 +317,12 @@ Day 22 - Sprint 2:
 Yesterday: Examined all lesson contents such as quizzes and exercises were finished. I was debugging [Data Engineer Nanodegree Program](https://www.udacity.com/course/data-engineer-nanodegree--nd027) project data lake both on notebook instance attached with AWS EMR Cluster and the Udacity workspace. Read 1st review from dear reviewer which helps me a lot to know how many parts, I need to fix accordingly.  
 Today: Reading 2nd review continue fixing project data lake.   
 blocker: None  
+
+Day 23 - Sprint 2:  
+Yesterday: Read 2nd review found out I completed project data lake. Fixed project data lake base on 2nd review suggestion. Voted student story challenge ❤️! 
+![][image14]  Watched [Cumrun Vafa: String Theory | Lex Fridman Podcast #204](https://youtu.be/j4_VyRDOmN4)  
+[![](https://img.youtube.com/vi/j4_VyRDOmN4/0.jpg)](https://youtu.be/j4_VyRDOmN4).    
+I love Lex Fridman Podcast where I received a lot and grow in my mind.  
+Today: Revisiting Lesson 3 Container Orchestration with Kubernetes continue to explore in the SUSE and Rancher community Academy class ACCELERATE DEV WORKFLOWS. Continue encourage fellow scholars ⭐!   
+blocker: None
+  
