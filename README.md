@@ -325,4 +325,9 @@ Yesterday: Read 2nd review found out I completed project data lake. Fixed projec
 I love Lex Fridman Podcast where I received a lot and grow in my mind.  
 Today: Revisiting Lesson 3 Container Orchestration with Kubernetes continue to explore in the SUSE and Rancher community Academy class ACCELERATE DEV WORKFLOWS. Continue encourage fellow scholars ⭐!   
 blocker: None
-  
+ 
+ Day 24 - Sprint 2:   
+Yesterday: Revisited Lesson 3 Container Orchestration with Kubernetes and Lesson 5 CI/CD with cloud native tooling. Explored the SUSE and Rancher community Academy class ACCELERATE DEV WORKFLOWS lesson 1 further reading section and lesson 2. Read [Data Engineer Nanodegree Program](https://www.udacity.com/course/data-engineer-nanodegree--nd027) CURRICULUM 5. Data Pipelines with Airflow lesson 1 Data Pipelines.   
+Today: Revisiting Lesson 3 Container Orchestration with Kubernetes and Lesson 5 CI/CD with cloud native tooling. Exploring the SUSE and Rancher community Academy class ACCELERATE DEV WORKFLOWS lesson 1 further reading section and lesson 2. Reading [Data Engineer Nanodegree Program](https://www.udacity.com/course/data-engineer-nanodegree--nd027) CURRICULUM 5. Data Pipelines with Airflow lesson 1 Data Pipelines.  
+blocker: None  
+ 
