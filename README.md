@@ -333,5 +333,5 @@ blocker: None
  
  Day 25 - Sprint 2:   
 Yesterday: Booked Google Hangout calendar for the following [Kaggle's 30 days of ML](https://www.kaggle.com/thirty-days-of-ml) with my Kaggle BIPOC program mentee Nicole and @German.Ramirez. Explored the SUSE and Rancher community Academy class ACCELERATE DEV WORKFLOWS lesson 2. Forked Lesson 2 challenge repo. Super exciting about the end of program party finally can see each other, reunion feel happy for the time with each other🌟.  
-Today: Revisiting Lesson 3 Container Orchestration with Kubernetes and Lesson 5 CI/CD with cloud native tooling. Exploring the SUSE and Rancher community articles, the Academy class ACCELERATE DEV WORKFLOWS lesson 2, and Lesson 2 challenge repo.   
+Today: Revisiting Lesson 3 Container Orchestration with Kubernetes and Lesson 5 CI/CD with cloud native tooling. Exploring the SUSE and Rancher community articles, the Academy class ACCELERATE DEV WORKFLOWS lesson 2, and Lesson 2 challenge repo. Super exciting about the Full Foundations Course Revision Webinar series this weekend from Friday to Sunday and the end of program party 💃 🌹!  
 blocker: None   
