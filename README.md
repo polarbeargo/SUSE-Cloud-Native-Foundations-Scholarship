@@ -331,3 +331,7 @@ Yesterday: Revisited Lesson 3 Container Orchestration with Kubernetes and Lesson
 Today: Revisiting Lesson 3 Container Orchestration with Kubernetes and Lesson 5 CI/CD with cloud native tooling. Exploring the SUSE and Rancher community Academy class ACCELERATE DEV WORKFLOWS lesson 1 further reading section and lesson 2. Reading [Data Engineer Nanodegree Program](https://www.udacity.com/course/data-engineer-nanodegree--nd027) CURRICULUM 5. Data Pipelines with Airflow lesson 1 Data Pipelines.  
 blocker: None  
  
+ Day 25 - Sprint 2:   
+Yesterday: Booked Google Hangout calendar for the following [Kaggle's 30 days of ML](https://www.kaggle.com/thirty-days-of-ml) with my Kaggle BIPOC program mentee Nicole and @German.Ramirez. Explored the SUSE and Rancher community Academy class ACCELERATE DEV WORKFLOWS lesson 2. Forked Lesson 2 challenge repo. Super exciting about the end of program party finally can see each other, reunion feel happy for the time with each other🌟.  
+Today: Revisiting Lesson 3 Container Orchestration with Kubernetes and Lesson 5 CI/CD with cloud native tooling. Exploring the SUSE and Rancher community articles, the Academy class ACCELERATE DEV WORKFLOWS lesson 2, and Lesson 2 challenge repo.   
+blocker: None   
