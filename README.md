@@ -338,5 +338,5 @@ blocker: None
 
  Day 26 - Sprint 2:   
 Yesterday: Examined all lesson contents such as quizzes and exercises were finished. Read the SUSE and Rancher community article, continue to the lesson 1 challenge on Windows subsystem for Linux.  
-Today: I made it to the final program party 😊. looking forward to the Full Foundations Course Revision Webinar series this weekend from Friday to Sunday. Reading #motivation channel think of what should I write 🤔?  One of the scholars said "Udacity is my University", I feel can't agree with more from my heart.  
+Today: I made it to the final program party 😊. looking forward to the Full Foundations Course Revision Webinar series this weekend from Friday to Sunday. Reading #motivation channel think of what should I write 🤔?  One of the scholars said "Udacity is my University", I feel couldn’t agree more from my heart.  
 blocker: None  
