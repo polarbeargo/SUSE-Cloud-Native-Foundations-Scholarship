@@ -18,6 +18,7 @@
 [image13]: ./image/studyBuddy.png  
 [image14]: ./image/voteStudentStory.png  
 [image15]: ./image/EndParty.png  
+[image16]: ./image/vagrant.png
 
 Day 1 -  
 Yesterday: Read Lesson 3 Container Orchestration with Kubernetes section 3 Docker for Application Packaging and read rule and sign up for Daily Scrum Challenge.  
@@ -347,5 +348,6 @@ blocker: None
 
 Day 27 - Sprint 2:  
 Yesterday: Posted #GratefulFriday. Post my gratitude in the #general_discussion channel on #GratefulFriday. Thank you for scholars and this community brings many sincere, gentle, warm regards to me 🌹. Listened to the SUSE and Rancher community article Octopod Episode 2 -- Open Source: It's Everywhere with Chris Aniszczyk.  
-Today: Writing motivation in the channel #motivation. Watching study Jam recording lesson 1, 3, 4, 5 sessions provide by @Udayon.Sen. Participating in the Full Foundations Course Revision Webinar series this weekend from Friday to Sunday. Have a good sleep continue to exploring Exploring the SUSE and Rancher community articles, the Academy class ACCELERATE DEV WORKFLOWS lesson 1 challenge. Have a great feast.  
+Today: Writing motivation in the channel #motivation. Watching study Jam recording lesson 1, 3, 4, 5 sessions provide by @Udayon.Sen. Participating in the Full Foundations Course Revision Webinar series this weekend from Friday to Sunday. Have a good sleep continue to exploring Exploring the SUSE and Rancher community articles, the Academy class ACCELERATE DEV WORKFLOWS lesson 1 challenge on Windows. Have a great feast.  
 blocker: None    
+![][image16] 
