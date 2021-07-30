@@ -16,7 +16,8 @@
 [image11]: ./image/ama3.png
 [image12]: ./image/ama4.png
 [image13]: ./image/studyBuddy.png  
-[image14]: ./image/voteStudentStory.png
+[image14]: ./image/voteStudentStory.png  
+[image15]: ./image/EndParty.png  
 
 Day 1 -  
 Yesterday: Read Lesson 3 Container Orchestration with Kubernetes section 3 Docker for Application Packaging and read rule and sign up for Daily Scrum Challenge.  
@@ -341,4 +342,5 @@ Yesterday: Examined all lesson contents such as quizzes and exercises were finis
 [![](https://img.youtube.com/vi/0RTWSJAqTPg/0.jpg)](https://youtu.be/0RTWSJAqTPg)  
 , I felt much happier.  
 Today: I made it to the final program party 😊. looking forward to the Full Foundations Course Revision Webinar series this weekend from Friday to Sunday. Reading #motivation channel think of what should I write 🤔?  One of the scholars said "Udacity is my University", I feel couldn’t agree more from my heart.  
-blocker: None  
+blocker: None    
+![][image15]   
