@@ -16,7 +16,8 @@
 [image11]: ./image/ama3.png
 [image12]: ./image/ama4.png
 [image13]: ./image/studyBuddy.png  
-[image14]: ./image/voteStudentStory.png
+[image14]: ./image/voteStudentStory.png  
+[image15]: ./image/EndParty.png  
 
 Day 1 -  
 Yesterday: Read Lesson 3 Container Orchestration with Kubernetes section 3 Docker for Application Packaging and read rule and sign up for Daily Scrum Challenge.  
@@ -325,4 +326,21 @@ Yesterday: Read 2nd review found out I completed project data lake. Fixed projec
 I love Lex Fridman Podcast where I received a lot and grow in my mind.  
 Today: Revisiting Lesson 3 Container Orchestration with Kubernetes continue to explore in the SUSE and Rancher community Academy class ACCELERATE DEV WORKFLOWS. Continue encourage fellow scholars ⭐!   
 blocker: None
-  
+ 
+ Day 24 - Sprint 2:   
+Yesterday: Revisited Lesson 3 Container Orchestration with Kubernetes and Lesson 5 CI/CD with cloud native tooling. Explored the SUSE and Rancher community Academy class ACCELERATE DEV WORKFLOWS lesson 1 further reading section and lesson 2. Read [Data Engineer Nanodegree Program](https://www.udacity.com/course/data-engineer-nanodegree--nd027) CURRICULUM 5. Data Pipelines with Airflow lesson 1 Data Pipelines.   
+Today: Revisiting Lesson 3 Container Orchestration with Kubernetes and Lesson 5 CI/CD with cloud native tooling. Exploring the SUSE and Rancher community Academy class ACCELERATE DEV WORKFLOWS lesson 1 further reading section and lesson 2. Reading [Data Engineer Nanodegree Program](https://www.udacity.com/course/data-engineer-nanodegree--nd027) CURRICULUM 5. Data Pipelines with Airflow lesson 1 Data Pipelines.  
+blocker: None  
+ 
+ Day 25 - Sprint 2:   
+Yesterday: Booked Google Hangout calendar for the following [Kaggle's 30 days of ML](https://www.kaggle.com/thirty-days-of-ml) with my Kaggle BIPOC program mentee Nicole and @German.Ramirez. Explored the SUSE and Rancher community Academy class ACCELERATE DEV WORKFLOWS lesson 2. Forked Lesson 2 challenge repo. Super exciting about the end of program party finally can see each other, reunion feel happy for the time with each other🌟.  
+Today: Revisiting Lesson 3 Container Orchestration with Kubernetes and Lesson 5 CI/CD with cloud native tooling. Exploring the SUSE and Rancher community articles, the Academy class ACCELERATE DEV WORKFLOWS lesson 2, and Lesson 2 challenge repo. Super exciting about the Full Foundations Course Revision Webinar series this weekend from Friday to Sunday and the end of program party 💃 🌹!  
+blocker: None   
+
+ Day 26 - Sprint 2:   
+Yesterday: Examined all lesson contents such as quizzes and exercises were finished. Read the SUSE and Rancher community article, continue to the lesson 1 challenge on Windows subsystem for Linux. Watched [Zach Bitter: Ultramarathon Running | Lex Fridman Podcast #205](https://youtu.be/0RTWSJAqTPg)  
+[![](https://img.youtube.com/vi/0RTWSJAqTPg/0.jpg)](https://youtu.be/0RTWSJAqTPg)  
+, I felt much happier.  
+Today: I made it to the final program party 😊. looking forward to the Full Foundations Course Revision Webinar series this weekend from Friday to Sunday. Reading #motivation channel think of what should I write 🤔?  One of the scholars said "Udacity is my University", I feel couldn’t agree more from my heart.  
+blocker: None    
+![][image15]   
