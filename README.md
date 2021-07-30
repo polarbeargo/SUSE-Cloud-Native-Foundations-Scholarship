@@ -337,6 +337,8 @@ Today: Revisiting Lesson 3 Container Orchestration with Kubernetes and Lesson 5 
 blocker: None   
 
  Day 26 - Sprint 2:   
-Yesterday: Examined all lesson contents such as quizzes and exercises were finished. Read the SUSE and Rancher community article, continue to the lesson 1 challenge on Windows subsystem for Linux.  
+Yesterday: Examined all lesson contents such as quizzes and exercises were finished. Read the SUSE and Rancher community article, continue to the lesson 1 challenge on Windows subsystem for Linux. Watched [Zach Bitter: Ultramarathon Running | Lex Fridman Podcast #205](https://youtu.be/0RTWSJAqTPg)  
+[![](https://img.youtube.com/vi/0RTWSJAqTPg/0.jpg)](https://youtu.be/0RTWSJAqTPg)  
+, I felt much happier.  
 Today: I made it to the final program party 😊. looking forward to the Full Foundations Course Revision Webinar series this weekend from Friday to Sunday. Reading #motivation channel think of what should I write 🤔?  One of the scholars said "Udacity is my University", I feel couldn’t agree more from my heart.  
 blocker: None  
