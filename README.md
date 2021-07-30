@@ -345,7 +345,7 @@ Today: I made it to the final program party 😊. looking forward to the Full Fo
 blocker: None    
 ![][image15]   
 
-Day 27 - Sprint 2:
+Day 27 - Sprint 2:  
 Yesterday: Posted #GratefulFriday. Post my gratitude in the #general_discussion channel on #GratefulFriday. Thank you for scholars and this community brings many sincere, gentle, warm regards to me 🌹. Listened to the SUSE and Rancher community article Octopod Episode 2 -- Open Source: It's Everywhere with Chris Aniszczyk.  
 Today: Writing motivation in the channel #motivation. Watching study Jam recording lesson 1, 3, 4, 5 sessions provide by @Udayon.Sen. Participating in the Full Foundations Course Revision Webinar series this weekend from Friday to Sunday. Have a good sleep continue to exploring Exploring the SUSE and Rancher community articles, the Academy class ACCELERATE DEV WORKFLOWS lesson 1 challenge. Have a great feast.  
 blocker: None    
