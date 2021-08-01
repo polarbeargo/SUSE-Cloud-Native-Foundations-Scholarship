@@ -354,5 +354,11 @@ blocker: None
 
 Day 28 - Sprint 2:  
 Yesterday: Wrote motivation in the channel #motivation. Watched study Jam recording lesson 1, 3, 4, 5 sessions provide by @Udayon.Sen. Had a good sleep, explored the SUSE and Rancher community articles, the Academy class ACCELERATE DEV WORKFLOWS lesson 1 challenges on Windows, and start CLASS Rancher Operator: Level 1. Had a great feast and had a good sleep 😴.  
-Today: Exploring the SUSE and Rancher community articles, the Academy class ACCELERATE DEV WORKFLOWS lesson 1 challenges on Windows and CLASS Rancher Operator: Level 1. Slowly drinking bulletproof coffee, Oliver oil, slowly eating nutrtional food like nuts and mozzarella. Will go out for a very slowly run 👟  around trees and having a good sleep 😴.  
+Today: Exploring the SUSE and Rancher community articles, the Academy class ACCELERATE DEV WORKFLOWS lesson 1 challenges on Windows and CLASS Rancher Operator: Level 1. Slowly drinking bulletproof coffee, Oliver oil, slowly eating nutritional food like nuts and mozzarella. Will go out for a very slow run 👟  around trees and having a good sleep 😴.  
 blocker: None  
+
+Day 29 - Sprint 2:  
+Yesterday: Explored the SUSE and Rancher community articles, the Academy class ACCELERATE DEV WORKFLOWS lesson 1 challenges like set up local k8s cluster, F5 debug docker container. create-dev container, debug microservice bridge to Kubernetes, rapid iteration code cloud skaf fold on Windows subsystem for Linux (selected my favorite Linux distro) and CLASS Rancher Operator: Level 1 Discovering RKE to section Deploy Kubernetes. Slowly drank bulletproof coffee, Oliver oil, slowly ate nutritional food like nuts and mozzarella. Went out for a very slow run 👟  around trees and had a good sleep 😴. Watched [Ishan Misra: Self-Supervised Deep Learning in Computer Vision | Lex Fridman Podcast #206](https://youtu.be/FUS6ceIvUnI)  
+[![](https://img.youtube.com/vi/FUS6ceIvUnI/0.jpg)](https://youtu.be/FUS6ceIvUnI)  
+Today: Exploring the SUSE and Rancher community articles, the Academy class ACCELERATE DEV WORKFLOWS lesson 1 challenges on Windows and CLASS Rancher Operator: Level 1 course materials and labs. Recall and combine Cloud Native Fundamentals Scholarship Program Nanodegree Program material while Exploring the SUSE and Rancher community. Cheer up for join [Kaggle's 30 days of ML](https://www.kaggle.com/thirty-days-of-ml) as a team with my Kaggle BIPOC program mentee Nicole and study buddy @German.Ramirez for 30 days 🌟!      
+blocker: None
