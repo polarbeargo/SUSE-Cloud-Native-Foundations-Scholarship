@@ -348,6 +348,11 @@ blocker: None
 
 Day 27 - Sprint 2:  
 Yesterday: Posted #GratefulFriday. Post my gratitude in the #general_discussion channel on #GratefulFriday. Thank you for scholars and this community brings many sincere, gentle, warm regards to me 🌹. Listened to the SUSE and Rancher community article Octopod Episode 2 -- Open Source: It's Everywhere with Chris Aniszczyk.  
-Today: Writing motivation in the channel #motivation. Watching study Jam recording lesson 1, 3, 4, 5 sessions provide by @Udayon.Sen. Participating in the Full Foundations Course Revision Webinar series this weekend from Friday to Sunday. Have a good sleep continue to exploring Exploring the SUSE and Rancher community articles, the Academy class ACCELERATE DEV WORKFLOWS lesson 1 challenge on Windows. Have a great feast.  
+Today: Writing motivation in the channel #motivation. Watching study Jam recording lesson 1, 3, 4, 5 sessions provide by @Udayon.Sen. Participating in the Full Foundations Course Revision Webinar series this weekend from Friday to Sunday. Have a good sleep continue to exploring Exploring the SUSE and Rancher community articles, the Academy class ACCELERATE DEV WORKFLOWS lesson 1 challenges on Windows. Have a great feast.  
 blocker: None    
 ![][image16] 
+
+Day 28 - Sprint 2:  
+Yesterday: Wrote motivation in the channel #motivation. Watched study Jam recording lesson 1, 3, 4, 5 sessions provide by @Udayon.Sen. Had a good sleep, explored the SUSE and Rancher community articles, the Academy class ACCELERATE DEV WORKFLOWS lesson 1 challenges on Windows, and start CLASS Rancher Operator: Level 1. Had a great feast and had a good sleep 😴.  
+Today: Exploring the SUSE and Rancher community articles, the Academy class ACCELERATE DEV WORKFLOWS lesson 1 challenges on Windows and CLASS Rancher Operator: Level 1. Slowly drinking bulletproof coffee, Oliver oil, slowly eating nutrtional food like nuts and mozzarella. Will go out for a very slowly run 👟  around trees and having a good sleep 😴.  
+blocker: None  
