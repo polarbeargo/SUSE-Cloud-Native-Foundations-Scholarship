@@ -18,7 +18,13 @@
 [image13]: ./image/studyBuddy.png  
 [image14]: ./image/voteStudentStory.png  
 [image15]: ./image/EndParty.png  
-[image16]: ./image/vagrant.png
+[image16]: ./image/d1.png
+[image17]: ./image/d2.png
+[image18]: ./image/d3.png
+[image19]: ./image/d4.png
+[image20]: ./image/d5.png
+[image21]: ./image/d6.png
+[image22]: ./image/d7.png
 
 Day 1 -  
 Yesterday: Read Lesson 3 Container Orchestration with Kubernetes section 3 Docker for Application Packaging and read rule and sign up for Daily Scrum Challenge.  
@@ -285,7 +291,7 @@ AMA 1| AMA 2
 :-----------------:|:-----------------:|
 ![][image9]        |![][image10]        |  
 AMA 3| AMA 4
-![][image11]        | ![][image12]                  |
+![][image11]        | ![][image12]      |
 
 Day 18 - Sprint 2:  
 Yesterday: Revisited Lesson 3 Container Orchestration with Kubernetes section 17 Kubernetes Resources Part 2. Read, and implemented [Data Engineer Nanodegree Program](https://www.udacity.com/course/data-engineer-nanodegree--nd027) project data lake. Participated in the AMA Sessions with SUSE received a lot of guidance from @Tim and @Luke 🌟! Joined the SUSE and Rancher community discovered many Academy classes, open source projects 😆 and received warm welcome from Sarah. Warm catch up with my study buddy @German.Ramirez had a good time share thoughts together.  
@@ -348,6 +354,28 @@ blocker: None
 
 Day 27 - Sprint 2:  
 Yesterday: Posted #GratefulFriday. Post my gratitude in the #general_discussion channel on #GratefulFriday. Thank you for scholars and this community brings many sincere, gentle, warm regards to me 🌹. Listened to the SUSE and Rancher community article Octopod Episode 2 -- Open Source: It's Everywhere with Chris Aniszczyk.  
-Today: Writing motivation in the channel #motivation. Watching study Jam recording lesson 1, 3, 4, 5 sessions provide by @Udayon.Sen. Participating in the Full Foundations Course Revision Webinar series this weekend from Friday to Sunday. Have a good sleep continue to exploring Exploring the SUSE and Rancher community articles, the Academy class ACCELERATE DEV WORKFLOWS lesson 1 challenge on Windows. Have a great feast.  
+Today: Writing motivation in the channel #motivation. Watching study Jam recording lesson 1, 3, 4, 5 sessions provide by @Udayon.Sen. Participating in the Full Foundations Course Revision Webinar series this weekend from Friday to Sunday. Have a good sleep continue to exploring Exploring the SUSE and Rancher community articles, the Academy class ACCELERATE DEV WORKFLOWS lesson 1 challenges on Windows. Have a great feast.  
 blocker: None    
 ![][image16] 
+
+Day 28 - Sprint 2:  
+Yesterday: Wrote motivation in the channel #motivation. Watched study Jam recording lesson 1, 3, 4, 5 sessions provide by @Udayon.Sen. Had a good sleep, explored the SUSE and Rancher community articles, the Academy class ACCELERATE DEV WORKFLOWS lesson 1 challenges on Windows, and start CLASS Rancher Operator: Level 1. Had a great feast and had a good sleep 😴.  
+Today: Exploring the SUSE and Rancher community articles, the Academy class ACCELERATE DEV WORKFLOWS lesson 1 challenges on Windows and CLASS Rancher Operator: Level 1. Slowly drinking bulletproof coffee, Oliver oil, slowly eating nutritional food like nuts and mozzarella. Will go out for a very slow run 👟  around trees and having a good sleep 😴.  
+blocker: None  
+
+Day 29 - Sprint 2:  
+Yesterday: Explored the SUSE and Rancher community articles, the Academy class ACCELERATE DEV WORKFLOWS lesson 1 challenges like set up local k8s cluster, F5 debug docker container. create-dev container, debug microservice bridge to Kubernetes, rapid iteration code cloud skaffold on Windows subsystem for Linux (selected my favorite Linux distro) and CLASS Rancher Operator: Level 1 Discovering RKE to section Deploy Kubernetes. Slowly drank bulletproof coffee, Oliver oil, slowly ate nutritional food like nuts and mozzarella. Went out for a very slow run 👟  around trees and had a good sleep 😴. Watched [Ishan Misra: Self-Supervised Deep Learning in Computer Vision | Lex Fridman Podcast #206](https://youtu.be/FUS6ceIvUnI)  
+[![](https://img.youtube.com/vi/FUS6ceIvUnI/0.jpg)](https://youtu.be/FUS6ceIvUnI)  
+Today: Exploring the SUSE and Rancher community articles, the Academy class ACCELERATE DEV WORKFLOWS lesson 1 challenges on Windows and CLASS Rancher Operator: Level 1 course materials and labs. Recall and combine Cloud Native Fundamentals Scholarship Program Nanodegree Program material while exploring the SUSE and Rancher community. Cheer up for join [Kaggle's 30 days of ML](https://www.kaggle.com/thirty-days-of-ml) as a team with my Kaggle BIPOC program mentee Nicole and study buddy @German.Ramirez for 30 days 🌟!      
+blocker: None
+
+Day 30 - Sprint 2:  
+Yesterday: Explored the SUSE and Rancher community articles, the Academy class ACCELERATE DEV WORKFLOWS lesson 1 challenges like set up local k8s cluster, F5 debug docker container. create-dev container, debug microservice bridge to Kubernetes, rapid iteration code cloud skaffold on Windows.  
+debug docker container| create-dev container
+:-----------------:|:-----------------:|
+![][image16]        |![][image17]        |  
+![][image18]        | ![][image19]   |
+![][image20]        | ![][image21] |  
+
+Today: Scholarship phase 1 ends today everyone see you in the future 🌟!  Exploring the SUSE and Rancher community articles, the Academy class ACCELERATE DEV WORKFLOWS lesson 1 challenges on Windows and CLASS Rancher Operator: Level 1 course materials and labs. Recall and combine Cloud Native Fundamentals Scholarship Program Nanodegree Program material while exploring the SUSE and Rancher community. Preparing join [Kaggle's 30 days of ML](https://www.kaggle.com/thirty-days-of-ml) 😊!  
+blocker: None
