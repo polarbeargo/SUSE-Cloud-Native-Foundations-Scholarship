@@ -379,7 +379,7 @@ debug docker container| create-dev container
 ![][image18]        | ![][image19]   |
 ![][image20]        | ![][image21] |  
 
-Received encouragement from 🤗 @Daniel.Montilla https://susecloudchallenge.slack.com/archives/C024AF6R48Y/p1627898210003100  
+Received a lovely encouragement card from 🤗 @Daniel.Montilla https://susecloudchallenge.slack.com/archives/C024AF6R48Y/p1627898210003100  
 ![][image24]    
 Today: Scholarship phase 1 ends today everyone see you in the future 🌟!  Exploring the SUSE and Rancher community articles, the Academy class ACCELERATE DEV WORKFLOWS lesson 1 challenges on Windows and CLASS Rancher Operator: Level 1 course materials and labs. Recall and combine Cloud Native Fundamentals Scholarship Program Nanodegree Program material while exploring the SUSE and Rancher community. Preparing join [Kaggle's 30 days of ML](https://www.kaggle.com/thirty-days-of-ml) 😊!  
 blocker: None
