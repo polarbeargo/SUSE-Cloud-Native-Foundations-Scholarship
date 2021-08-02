@@ -25,6 +25,8 @@
 [image20]: ./image/d5.png
 [image21]: ./image/d6.png
 [image22]: ./image/d7.png
+[image23]: ./image/vagrant.png
+[image24]: ./image/ww.png 
 
 Day 1 -  
 Yesterday: Read Lesson 3 Container Orchestration with Kubernetes section 3 Docker for Application Packaging and read rule and sign up for Daily Scrum Challenge.  
@@ -356,7 +358,7 @@ Day 27 - Sprint 2:
 Yesterday: Posted #GratefulFriday. Post my gratitude in the #general_discussion channel on #GratefulFriday. Thank you for scholars and this community brings many sincere, gentle, warm regards to me 🌹. Listened to the SUSE and Rancher community article Octopod Episode 2 -- Open Source: It's Everywhere with Chris Aniszczyk.  
 Today: Writing motivation in the channel #motivation. Watching study Jam recording lesson 1, 3, 4, 5 sessions provide by @Udayon.Sen. Participating in the Full Foundations Course Revision Webinar series this weekend from Friday to Sunday. Have a good sleep continue to exploring Exploring the SUSE and Rancher community articles, the Academy class ACCELERATE DEV WORKFLOWS lesson 1 challenges on Windows. Have a great feast.  
 blocker: None    
-![][image16] 
+![][image23] 
 
 Day 28 - Sprint 2:  
 Yesterday: Wrote motivation in the channel #motivation. Watched study Jam recording lesson 1, 3, 4, 5 sessions provide by @Udayon.Sen. Had a good sleep, explored the SUSE and Rancher community articles, the Academy class ACCELERATE DEV WORKFLOWS lesson 1 challenges on Windows, and start CLASS Rancher Operator: Level 1. Had a great feast and had a good sleep 😴.  
@@ -377,5 +379,7 @@ debug docker container| create-dev container
 ![][image18]        | ![][image19]   |
 ![][image20]        | ![][image21] |  
 
+Received encouragement from 🤗 @Daniel.Montilla https://susecloudchallenge.slack.com/archives/C024AF6R48Y/p1627898210003100  
+![][image24]    
 Today: Scholarship phase 1 ends today everyone see you in the future 🌟!  Exploring the SUSE and Rancher community articles, the Academy class ACCELERATE DEV WORKFLOWS lesson 1 challenges on Windows and CLASS Rancher Operator: Level 1 course materials and labs. Recall and combine Cloud Native Fundamentals Scholarship Program Nanodegree Program material while exploring the SUSE and Rancher community. Preparing join [Kaggle's 30 days of ML](https://www.kaggle.com/thirty-days-of-ml) 😊!  
 blocker: None
